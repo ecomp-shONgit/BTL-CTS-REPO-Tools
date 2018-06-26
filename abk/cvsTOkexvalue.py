@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# 2017/2018 BTL CTS Project, Prof. Charlotte Schubert, Alte Geschichte Leipzig
+# 2016/2018 BTL CTS Project, Prof. Charlotte Schubert, Alte Geschichte Leipzig
 # Function: .CSV TO KEY VALUE LIST (usable in Python, JS)
 
 # GPLv3 copyrigth
