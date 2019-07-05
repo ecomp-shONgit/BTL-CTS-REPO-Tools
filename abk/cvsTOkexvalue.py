@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# 2016/2018 BTL CTS Project, Prof. Charlotte Schubert, Alte Geschichte Leipzig
+# 2017/2018 BTL CTS Project, Prof. Charlotte Schubert, Alte Geschichte Leipzig
 # Function: .CSV TO KEY VALUE LIST (usable in Python, JS)
 
 # GPLv3 copyrigth
@@ -23,8 +23,17 @@ import json, codecs
 ###################################
 #CONFIG IN AND OUT FILENAME
 
-INNAMEFILE = "index_tll_final.csv"
-OUTNAMEFILE = "TLLabk2.txt"
+#TLL,PAN,Ruecker
+#INNAMEFILE = "index_tll_final.csv"
+#OUTNAMEFILE = "TLLabk2.txt"
+
+#DGE
+INNAMEFILE = "dge.csv"
+OUTNAMEFILE = "dge.txt"
+
+#OCD
+#INNAMEFILE = "OCD_ABBREVIATIONS.csv"
+#OUTNAMEFILE = "OCD_ABBREVIATIONS.txt"
 
 ###################################
 
@@ -117,4 +126,3 @@ with open( OUTNAMEFILE, 'w') as outfile:
 
    
 print( "Ende" )
-
