@@ -2,5 +2,5 @@
 Tools for compiling a CTS repository from the Bibliotheca Teubneriana Latina
 
 # Usage
-![](flowOFfkt.svg){ width=90% }
+![](flowOFfkt.svg|width=90)
 
