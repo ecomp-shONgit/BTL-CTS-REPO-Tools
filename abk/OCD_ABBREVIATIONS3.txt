@@ -1,0 +1,2255 @@
+
+"abr.":["abridged/abridgement","",{}],
+"adesp.":["adespota","",{}],
+"Akkad.":["Akkadian","",{}],
+"app.":["appendix","",{}],
+"app. crit.":["apparatus criticus","",{}],
+"Aeol.":["Aeolic","",{}],
+"art.":["article","",{}],
+"Att.":["Attic","",{}],
+"b.":["born","",{}],
+"Bab.":["Babylonian","",{}],
+"beg.":["beginning","",{}],
+"bibliog.":["bibliography","",{}],
+"bk.":["book","",{}],
+"c.":["circa","",{}],
+"cent.":["century","",{}],
+"cm.":["centimetre/s","",{}],
+"comm.":["commentary","",{}],
+"corr.":["corrected","",{}],
+"d.":["died","",{}],
+"Diss.":["Dissertation","",{}],
+"Dor.":["Doric","",{}],
+"end":["at/nr. end","",{}],
+"ed.":["editor, edited by","",{}],
+"ed. maior":["major edition of critical text","",{}],
+"ed. minor":["minor edition of critical text","",{}],
+"edn.":["edition","",{}],
+"Einzelschr.":["Einzelschrift","",{}],
+"El.":["Elamite","",{}],
+"Eng.":["English","",{}],
+"esp.":["especially","",{}],
+"Etr.":["Etruscan","",{}],
+"exhib. cat.":["exhibition catalogue","",{}],
+"fem.":["feminine","",{}],
+"f.":[ "and following","",{}],
+"ff.":["and following","",{}],
+"fig.":["figure","",{}],
+"fl.":["floruit","",{}],
+"Fr.":["French","",{}],
+"fr.":["fragment","",{}],
+"ft.":["foot/feet","",{}],
+"g.":["gram/s","",{}],
+"Ger.":["German","",{}],
+"Gk.":["Greek","",{}],
+"ha.":["hectare/s","",{}],
+"Hebr.":["Hebrew","",{}],
+"HS":["sesterces","",{}],
+"hyp.":["hypothesis","",{}],
+"i.a.":["inter alia","",{}],
+"ibid.":["ibidem, in the same work","",{}],
+"IE":["Indo-European","",{}],
+"imp.":["impression","",{}],
+"in.":["inch/es","",{}],
+"introd.":["introduction","",{}],
+"Ion.":["Ionic","",{}],
+"It.":["Italian","",{}],
+"kg.":["kilogram/s","",{}],
+"km.":["kilometre/s","",{}],
+"lb.":["pound/s","",{}],
+"l.":["line","",{}], 
+"ll.":["lines","",{}],
+"lit.":["literally","",{}],
+"lt.":["litre/s","",{}],
+"L.":["Linnaeus","",{}],
+"Lat.":["Latin","",{}],
+"m.":["metre/s","",{}],
+"masc.":["masculine","",{}],
+"mi.":["mile/s","",{}],
+"ml.":["millilitre/s","",{}],
+"mod.":["modern","",{}],
+"MS(S)":["manuscript(s)","",{}],
+"Mt.":["Mount","",{}],
+"n.":["note","",{}], 
+"nn.":["notes","",{}],
+"n.d.":["no date","",{}],
+"neut.":["neuter","",{}],
+"no.":["number","",{}],
+"ns":["new series","",{}],
+"NT":["New Testament","",{}],
+"OE":["Old English","",{}],
+"Ol.":["Olympiad","",{}],
+"ON":["Old Norse","",{}],
+"OP":["Old Persian","",{}],
+"orig.":["original","",{}],
+"OT":["Old Testament","",{}],
+"oz.":["ounce/s","",{}],
+"p.a.":["per annum","",{}],
+"PIE":["Proto-Indo-European","",{}],
+"pl.":["plate","",{}],
+"plur.":["plural","",{}],
+"pref.":["preface","",{}],
+"Proc.":["Proceedings","",{}],
+"prol.":["prologue","",{}],
+"ps.-":["pseudo-","",{}],
+"Pt.":["part","",{}],
+"ref.":["reference","",{}],
+"repr.":["reprint, reprinted","",{}],
+"rev.":["revised/by","",{}],
+"sel.":["selected","",{}],
+"ser.":["series","",{}],
+"sing.":["singular","",{}],
+"Skt.":["Sanskrit","",{}],
+"Sp.":["Spanish","",{}],
+"str.":["strophe","",{}],
+"Suppl.":["Supplement","",{}],
+"T":["testimonium","",{}],
+"trans.":["translation, translated by","",{}],
+"v.":["verse","",{}],
+"vv.":["verses","",{}],
+"Ven.":["Venetic","",{}],
+"A&A":["Antike und Abendland","",{}],
+"AA":["see Syme, AA","",{}],
+"AAA":["Athens Annals of Archaeology","",{}],
+"AAHG":["Anzeiger für Altertumswissenschaft","",{}],
+"AAWM":["Abhandlungen der Akademie der Wissenschaften in Mainz, geistes-und sozialwissenschaftliche Klasse","",{}],
+"A2H":["Inscription of Artaxerxes II at Hamadan","",{}],
+"A2 S":["Inscription of Artaxerxes II at Susa","",{}],
+"AB":["C. Austin and G. Bastiniani (eds.), Posidippi quae supersunt omnia (2002)","",{}],
+"ABC":["A. K. Grayson, Assyrian and Babylonian Chronicles (1975)","",{}],
+"Abh.":["Abhandlungen","",{}],
+"Abh. sächs. Ges. Wiss.":["Abhandlungen der sächsischen Gesellschaft der Wissenschaften","",{}],
+"Abh. zu Gesch. d. Math.":["Abhandlungen zur Geschichte der mathematischen Wissenschaften","",{}],
+"Abh. zu Gesch. d. Med.":["Abhandlungen zur Geschichte der Naturwissenschaften und d. Medizin","",{}],
+"AC":["Acta Classica","",{}],
+"Acad. index Herc.":["Academicorum philosophorum index Herculanensis editus a F. Buechelero (1869)","",{}],
+"Acad. post.":["Academica posteriora","",{}],
+
+
+
+"Ach. Tat.":["Achilles Tatius","",{}],
+"Act.Ir.":["Acta Iranica:[ Encyclopédie permanente des études iraniennes","",{}],
+"ΑΔ":["Αρχαιολογικόν Δελτίον","",{}],
+"AE":["L'Année Épigraphique, published in Revue Archéologique and separately (1888)","",{}],
+"Ael.":["Aelianus","",{"Ep.":"Epistulae",
+                    "NA":"De natura animalium",
+                    "VH":"Varia Historia"}],
+
+"ΑEΜθ":["Archaiologiko Ergo ste Makedonia kai Thrake","",{}],
+"Aen.":["Aeneid","",{}],
+"Aen. Tact.":["Aeneas Tacticus","",{}],
+"Aesch.":["Aeschylus","",{"Ag.":"Agamemnon",
+                        "Cho.":"Choephoroe",
+                        "Eum.":"Eumenides",
+                        "Pers.":"Persae",
+                        "PV":"Prometheus Vinctus",
+                        "Sept.":"Septem contra Thebas",
+                        "Supp.":"Supplices"}],
+
+"Aeschin.":["Aeschines","",{"In Ctes.":"Against Ctesiphon",
+                            "In Tim.":"Against Timarchus"}],
+
+"Aët":["Aëtius","",{}],
+"AGM":["Sudhoffs Archiv für Geschichte der Medizin und der Naturwissenschaften","",{}],
+"Agora":["The Athenian Agora 16 (1997)","",{}],
+"AIV":["Atti dell'Istituto Veneto di Scienze, Lettere ed Arti, Classe di scienze morali e lettere","",{}],
+"AJAH":["American Journal of Ancient History","",{}],
+"AJArch.":["American Journal of Archaeology","",{}],
+"AJPhil.":["American Journal of Philology","",{}],
+"AK":["Antike Kunst","",{}],
+"Alc.":["Alcaeus","",{}],
+"Alcidamas, Soph.":["Alcidamas, Πε_1ρὶ σοφιστῶν","",{}],
+"Alcm.":["Alcman","",{}],
+"Alexander, Trials":["M. C. Alexander, Trials in the Late Roman Republic, 149–50 BC (1990)","",{}],
+"Alex. Polyh.":["Alexander Polyhistor","",{}],
+"ALLP":["T. Reinhardt, M. Lapidge, and J. N. Adams, Aspects of the Language of Latin Prose (2005)","",{}],
+"Altheim, Hist. Rom. Rel.":["F. Altheim, Römische Religionsgeschichte, trans. H. Mattingly (1938 2nd edn. (Ger.), 1956)","",{}],
+"AM":"MDAI"],
+"AMB 1":["L'Arabie et ses mers bordières 1:[ Itinéraires et voisinages, ed. J. F. Salles (1988)","",{}],
+"Amer. Acad. Rome":["Memoirs of the American Academy at Rome"
+"Amer. Hist. Rev.":["American Historical Review"
+"AMI":["Archäologische Mitteilungen aus Iran, ns (1968)" ,"",{}],
+"Amm. Marc.":["Ammianus Marcellinus","",{}],
+"Ammon.":["Ammonius grammaticus","",{"Diff.":"Περὶ ὁμοίων καὶ διαφόρρων λέξεων"}],
+
+"Anac.":["Anacreon","",{}],
+"Anat. St.":["Anatolian Studies","",{}],
+"Anc. Soc.":["Ancient Society","",{}],
+"Andoc.":["Andocides","",{}],
+"Anecd. Bach.":["Anecdota Graeca, ed. L. Bachmann (1828–9)","",{}],
+"Anecd. Bekk.":["Anecdota Graeca, ed. I. Bekker, 3 vols. (1814–21)","",{}],
+"Anecd. Ox.":["Anecdota Graeca e codd. MSS Bibl. Oxon., ed. J. A. Cramer, 4 vols. (1835–7)","",{}],
+"Anecd. Par.":["Anecdota Graeca e codd. MSS Bibl. Reg. Parisiensis, ed. J. A. Cramer, 4 vols. (1839–41)","",{}],
+"Ann. Ist.":["Annali del Istituto di Corrispondenza Archaeologica (1829)","",{}],
+"Anon. De com.":["Anonymus De Comoedia","",{}],
+"ANRW":["Aufstieg und Niedergang der römischen Welt (1972)","",{}],
+"Ant. af.":["Antiquités africaines","",{}],
+"Ant. Class.":["L'Antiquité classique","",{}],
+"Anth. Lat.":["Anthologia Latina, ed. A. Riese, F. Buecheler, and E. Lommatzsch (1869–1926) ed. D. R. Shackleton Bailey, 1 Carmina in codicibus scripta (1982)","",{}],
+"Anth. Lyr. Graec.":["see Diehl","",{}],
+"Anth. Pal.":["Anthologia Palatina","",{}],
+"Anth. Plan.":["Anthologia Planudea","",{}],
+"Antig. Car.":["Antigonus Carystius","",{}],
+"Antiph.":["Antiphon","",{}],
+"Antip. Sid.":["Antipater Sidonius","",{}],
+"Ant. Journ.":["Antiquaries Journal","",{}],
+"Ant. Lib.":["Antoninus Liberalis","",{"Met.":"Metamorphoses"}],
+
+"Anz.":["Anzeiger or Anzeigen","",{}],
+"AO":"Develin, AO",
+"APF":"Davies, APF",
+"Apollod.":["Apollodorus mythographus","",{"Bibl.":"Bibliotheca",
+                                            "Epit.":"Epitome"}],
+
+"Apollonius":["Apollonius paradoxographus","",{"Mir.":["Mirabilia"}],
+
+"Apollonius Dyscolus":["Apollonius Dyscolus","",{"Pron.":"De pronominibus"}]
+
+
+"App.":["Appian","",{"B Civ.":"Bella civilia",
+                    "Hann.":"Ἀννιβαιϊκή",
+                    "Hisp.":"Ἰβηρική",
+                    "Ill.":"Ἰλλνρική",
+                    "Mac.":"Μακεονική",
+                    "Mith.":"Μιθριδάτειος",
+                    "Pun.":"Λιβυκή",
+                    "Sam.":"Σαυνιτική",
+                    "Syr.":"Συριακή"}],
+
+"App. Verg.":["Appendix Vergiliana","",{}],
+"Apsines, Rhet.":["Apsines, Ars rhetorica","",{}],
+"Apth. Prog.":["Aphthonius, Progymnasmata","",{"Apul.":"Apuleius",
+                                            "Apol.":"Apologia",
+                                            "Asclep.":"Asclepius",
+                                            "De deo Soc.":"De deo Socratico",
+                                            "De dog. Plat.":"De dogmate Platonis",
+                                            "Flor.":"Florida",
+                                            "Met.":"Metamorphoses"}],
+
+"Ap. Rhod.":["Apollonius Rhodius","",{"Argon":"Argonautica"}],
+
+"Ar.":["Aristophanes"
+"Ach.":["Acharnenses"
+"Av.":["Aves"
+"Eccl.":["Ecclesiazusae"
+"Eq.":["Equites"
+"Lys.":["Lysistrata"
+"Nub.":["Nubes"
+"Plut.":["Plutus"
+"Ran.":["Ranae"
+"Thesm.":["Thesmophoriazusae"
+"Vesp.":["Vespae"
+"Aratus, Phaen.":["Aratus, Phaenomena"
+"Progn.":["Prognostica"
+"Ar. Byz.":["Aristophanes Byzantinus"
+"Arch. Ael.":["Archaeologia Aeliana (Newcastle-upon-Tyne)"
+"Arch. Anz.":["Archäologischer Anzeiger in Jahrbuch des [kaiserlichen] deutschen
+archäologischen Instituts (JDAI)"
+"Arch. Class.":["Archaeologia Classica"
+"Ἀρχ. Ἐφ.":["’Αρχαιολογική Ἐφημερίς"
+"Archil.":["Archilochus"
+"Archim. Method":["Archimedes, Method of Mechanical Theorems"
+"Arch. Journ.":["Archaeological Journal"
+"Arch. Laz.":["Archeologia Laziale"
+"Arch. Pap.":["Archiv für Papyrusforschung"
+"Arch. Rep.":["Archaeological Reports published by the Hellenic Society"
+"Arist.":["Aristotle"
+"An. post.":["Analytica posteriora"
+"An. pr.":["Analytica priora"
+"[Ath. Pol.]":["Ἀθηναίων πολιτεία"
+"Cael.":["De caelo"
+"Cat.":["Categoriae"
+"[Col.]":["De coloribus"
+"Arist.":[
+"De an.":["De anima"
+"[De audib.]":["De audibilibus"
+"De motu an.":["De motu animalium"
+"Div. somn.":["De divinatione per somnia"
+"Eth. Eud.":["Ethica Eudemia"
+"Eth. Nic.":["Ethica Nicomachea"
+"Gen. an.":["De generatione animalium"
+"Gen. corr.":["De generatione et corruptione"
+"Hist. an.":["Historia animalium"
+"IA":["De incessu animalium"
+"Int.":["De interpretatione"
+"[Lin. Ins.]":["De lineis insecabilibus"
+"[Mag. mor.]":["Magna moralia"
+"[Mech.]":["Mechanica"
+"Mem.":["De memoria"
+"Metaph.":["Metaphysica"
+"Mete.":["Meteorologica"
+"[Mir. ausc.]":["see Mir. ausc. under M"
+"[Mund.]":["De mundo"
+"[Oec.]":["Oeconomica"
+"Part. an.":["De partibus animalium"
+"Parv. nat.":["Parva naturalia"
+"Ph.":["Physica"
+"[Phgn.]":["Physiognomonica"
+"Poet.":["Poetica"
+"Pol.":["Politica"
+"[Pr.]":["Problemata"
+"Resp.":["De respiratione"
+"Rh.":["Rhetorica"
+"[Rh. Al.]":["Rhetorica ad Alexandrum"
+"Sens.":["De sensu"
+"Soph. el.":["Sophistici elenchi"
+"Top.":["Topica"
+"[Xen.]":["De Xenophane"
+"Aristid. Or.":["Aristides, Orationes"
+"Aristid. Quint.":["Aristides Quintilianus"
+"Aristox.":["Aristoxenus"
+"Fr. hist.":["Fragmenta historica"
+"Harm.":["Harmonica"
+"Rhythm.":["Rhythmica"
+"Arn.":["Arnobius"
+"Adv. nat.":["Adversus nationes"
+"Arnim (von)":["see SVF"
+"Arr.":["Arrian"
+"Anab.":["Anabasis"
+"Cyn.":["Cynegeticus"
+"Epict. diss.":["Epicteti dissertationes"
+"Parth.":["Parthica"
+"Peripl. M. Eux.":["Periplus Maris Euxini"
+"Tact.":["Tactica"
+"ARTA":["Achaemenid Research on Texts and Archaeology
+(http:[//www.achemenet.com/ressources/enligne)"
+"Artem.":["Artemidorus Daldianus"
+"ARV":["J. D. Beazley, Attic Red-Figure Vase- Painters, 2nd edn. (1963)"
+"ARV Add":["T. Carpenter, T. Mannack, and M. Mendonça, Beazley Addenda, 2nd edn.
+(1990)"
+"ARV Para":["J. D. Beazley, Paralipomena Additions to Attic Black-Figure Vase-Painters
+and to Attic Red-Figure Vase-Painters (1971)"
+"ARW":["Archiv für Religionswissenschaft"
+"ASAA":["Annuario della Scuola archeologica di Atene e delle Missioni italiane in
+Oriente"
+"ASAE":["Annales du service des antiquités de l'Égypte"
+"Asc.":["Asconius"
+"Corn.":["Commentary on Cicero, Pro Cornelio de maiestate"
+"Mil.":["Commentary on Cicero, Pro Milone"
+"Pis.":["Commentary on Cicero, In Pisonem"
+"Verr.":["Commentary on Cicero, In Verrem"
+"Asc.... C":["Asconius, ed. A. C. Clark (OCT, 1907)"
+"ASNP":["Annali della Scuola Normale Superiore di Pisa, Classe di Lettere e Filosofia"
+"ASSR":["Archives des sciences sociales de religion"
+"Astin, Scipio":["A. E. Astin, Scipio Aemilianus (1967)"
+"Ath.":["Athenaeus"
+"Athenaeum":["Athenaeum (Pavia). ns (1923– )"
+"Athenagoras, Leg.":["Athenagoras, Legatio pro Christianis"
+"pro Christ.":["=Πρεσβεία περὶ Xριστιανων"
+"Ath. pol.":["Athenaion politeia (Aristotelian):[ see also Xen. for ‘Old Oligarch’ i.e. Ps.-Xen.
+Ath. pol."
+"ATL":["B. D. Meritt, H. T. Wade-Gery, and M. F. McGregor, The Athenian Tribute
+Lists 1–4 (1939–53)"
+"Auct. ad Her.":["Auctor ad Herennium"
+"August.":["Augustine"
+"Ad Rom.":["Expositio of Epist. ad Romanos"
+"C. acad.":["Contra academicos"
+"Conf.":["Confessions"
+"De civ. D.":["De civitate Dei"
+"Div. quaest.":["De diversis quaestionibus"
+"In Evang. Iohan.":["Tractatus in Evangelium Iohannis"
+"Ep.":["Epistulae"
+"Retract.":["Retractationes"
+"Serm.":["Sermones"
+"Aul. Gell.":["see Gell."
+"Aur. Vict. Caes.":["Aurelius Victor, Caesares"
+"[Aur. Vict.] De vir. ill.":["[Aurelius Victor], De viris illustribus"
+"Auson.":["Ausonius (see Green)"
+"Cent. nupt.":["Cento nuptialis"
+"Grat. act.":["Gratiarum actio"
+"Mos.":["Mosella"
+"Ordo nob. urb.":["Ordo nobilium urbium"
+"Prof. Burd.":["Commemoratio professorum Burdigalensium"
+"Technop.":["Technopaegnion"
+"Austin":["M. M. Austin, The Hellenistic World from Alexander to the Roman Conquest,
+2nd edn. (2006)"
+"Austin, CGFP":["C. Austin, Comicorum Graecorum fragmenta in papyris reperta (1973)"
+"BaBesch.":["Bulletin antieke Beschavung"
+"Bacchyl.":["Bacchylides (ed. B. Snell and H. Maehler, 1970)"
+"BAct.":["Bellum Actiacum:[ see B Aegypt."
+"Badian, Stud. Gr.":["E. Badian, Studies in Greek and Rom. Hist. Roman History (1964)"
+"BAegypt.":["Carmen de Bello Aegyptiaco sive Actiaco (papyrus fragment)"
+"Baehr.":["E. Baehrens"
+"FPR":["Fragmenta Poetarum Romanorum (1866)"
+"PLM":["see PLM Vollmer/Morel"
+"BAfr.":["Bellum Africum"
+"Bagnall and Derow":["R. S. Bagnall and P. Derow, Greek Historical Documents:[ The Hellenistic
+Period (1981)"
+"Balbo, Frammenti":["A. Balbo, I frammenti degli oratori romani dell'età augustea e tiberiana 1
+(2004)"
+"BAlex.":["Bellum Alexandrinum"
+"Barr.":["R. J. A. Talbert (ed.) Barrington Atlas of the Greek and Roman World (2000)"
+"Basil. De virg.":["Basilius, De virginitate"
+"BASP":["Bulletin of the American Society of Papyrologists"
+"Bauman, WPAR":["R. A. Bauman, Women and Politics in Ancient Rome (1992)"
+"BCAR":["Bolletino della Commissione Archeologica Communale in Rome"
+"BCH":["Bulletin de Correspondance Hellénique"
+"BCHP":["I. L. Finkel and R. J. van der Spek, Babylonian Chronicles of the Hellenistic
+Period 〈http:[//www.livius.org/babylonia.html〉"
+"BÉ":["Bulletin épigraphique, pub. in Revue des études grecques"
+"Beazley, ABV":["J. D. Beazley, Attic Black-figure Vase Painters (1956)"
+"ARV 2":["Attic Red-figure Vase Painters, 2nd edn. (1963)"
+"Paralipomena":["Paralipomena:[ Additions to ABV and ARV 2 (1971)"
+"Beazley Addenda":["T. H. Carpenter, Beazley Addenda:[ Additional References to ABV, ARV 2 and
+Paralipomena, 2nd edn. (1989)"
+"BÉFEO":["Bulletin:[ École française d'Extrême Orient"
+"Beitr.":["Beitrag, Beiträge"
+"Beloch":["K. J. Beloch"
+"Gr. Gesch.":["Griechische Geschichte, 2nd edn. (1912–27)"
+"Röm. Gesch.":["Römische Geschichte bis zum Beginn der punischen Kriege (1926)"
+"Bengtson, Strategie":["H. Bengtson, Die Strategie in der hellenistischen Zeit, Munchener Beiträge zur
+Papyrusforschung und Rechtsgeschichte 26 (1937), 32 (1944), 36 (1952)"
+"Röm. Gesch.":["Grundriss der römischen Geschichte (1967)"
+"Bérard, Bibl. topogr.":["J. Bérard, Bibliographie topographique des principales cités grecques de
+l'Italie méridionale et de la Sicile dans l'antiquité (1941)"
+"Berl. Abh.":["Abhandlungen der preuβ. Akademie d. Wissenschaften zu Berlin (1786–1907:[
+1908– )"
+"Bernabé, PEG":["A. Bernabé, Poetae Epici Graeci 1 (1988)"
+"Ber. Sächs. Ges. Wiss.":["Berichte über die Verhandlungen der [Kgl.] sächsischen Gesellschaft der
+Wissenschaften zu Leipzig (1848)"
+"Berve, Alexanderreich":["H. Berve, Das Alexanderreich auf prosopographischer Grundlage (1927)"
+"BGU":["Berliner Griechische Urkunden (Ägyptische Urkunden aus den Kgl. Museen zu
+Berlin)"
+"BHisp.":["Bellum Hispaniense"
+"Bibl. Éc. Franc.":["Bibliothèque des Écoles françaises d' Athénes et de Rome (1877–":[:[")":[
+"BICS":["Bulletin of the Institute of Classical Studies, London"
+"Bidez–Cumont":["J. Bidez and F. Cumont, Les Mages hellénisés, 2 vols. (1938)"
+"Bieber, Sculpt.":["M. Bieber, Sculpture of the"
+"Hellenist. Age":["Hellenistic Age, 2nd edn. (1961)"
+"BIFAO":["Bulletin de l'Institut français d' Archéologie Orientale (Cairo)"
+"BiOr":["Bibliotheca Orientalis"
+"BKT":["Berliner Klassikertexte, herausgegeben von der Generalverwaltung der Kgl.
+Museen zu Berlin (1904– )"
+"Blass, Att. Ber.":["F. Blass, Die Attische Beredsamkeit, 2nd edn. (1887–98)"
+"BM":["British Museum"
+"BMB":["Bulletin du Musée de Beyrouth"
+"BMC":["British Museum Catalogue"
+"BM Coins, Rom. Emp.":["British Museum Catalogue of Coins of the Roman Empire (1923–":[:[")":[
+"BN":["Beiträge zur Namenforschung, Heidelberg"
+"BNJ":["I. Worthington (ed.), Brill's New Jacoby (2006– )"
+"BNP":["Brill’s New Pauly"
+"Boll. d'Arte":["Bollettino d'arte"
+"Boll. Fil. Class.":["Bollettino di filologia classica (1894–1929):[ ns (1930–":[")":[:[
+"Bonner Jahrb.":["Bonner Jahrbücher (1895– )"
+"Bosworth, HCA":["A. B. Bosworth, Historical Commentary on Arrian's History of Alexander 1:[
+Commentary on Books i–iii (1980):[ 2:[ Commentary on Books iv–v (1995)"
+"Bouché-Leclerq, Hist. div.":["A. Bouché-Leclerq, Histoire de la divination dans l'antiquité, 4 vols. (1879–82)"
+"Bowersock, AGW":["G.W. Bowersock, Augustus and the Greek World (1965)"
+"B. phil. Woch.":["Berliner philologische Wochenschrift (1881–1920)"
+"Bremer":["F. P. Bremer, Iurisprudentiae antehadrianae quae supersunt:[ 1 (1896):[ 2/1
+(1898):[ 2/2 (1901)"
+"Bresl. phil. Abh.":["Breslauer philologische Abhandlungen"
+"BRGK":["Bericht der römisch-germanischen Kommission des deutschen archäologischen
+Instituts"
+"Briant, HEA":["P. Briant, Histoire de l’Empire perse:[ de Cyrus à Alexandre (1996:[ Eng. trans.
+2002)"
+"Briscoe, Comm. 31–33":["J. Briscoe, A Commentary on Livy Books xxxi–xxxiii (1973)"
+"Comm. 34–37":["A Commentary on Livy Books xxxiv–xxxvii (1981)"
+"Comm. 38–40":["A Commentary on Livy Books xxxviii–xl (2008)"
+"Brommer, Vasenlisten":["F. Brommer, Vasenlisten zur griechischen Heldensage (2nd edn. 1960:[ 3rd edn.
+1973)"
+"Broughton, MRR":["T. R. S. Broughton, The Magistrates of the Roman Republic (1951–2):[ Suppl.
+(1986:[ supersedes Suppl. 1960)"
+"Bruns, Font.":["C. G. Bruns, Fontes iuris Romani antiqui, 7th edn. (1919)"
+"Brunt, RIT":["P. A. Brunt, Roman Imperial Themes (1990)"
+"BSA":["Annual of the British School at Athens (1895– )"
+"BTCGI":["G. Nenci and G. Vallet (eds), Bibliografia topografica della colonizzazione
+greca in Italia e nelle isole tirreniche"
+"Büchner, FPL":[:["see Morel–Büchner, FPL":[:[
+"Budé":[:["Collection des Univ. de France, publiée sous le patronage de l'Assoc.
+Guillaume Budé":[:[
+"Buecheler, Carm. Epigr.":[:["F. Buecheler, Carmina Latina Epigraphica, 2 vols. with Suppl. by E.
+Lommatzsch (1894–1930)":[:[
+"Bull. Com. Arch.":[:["Bullettino della Commissione archeologica comunale in Roma":[:[
+"Bull. Ist. Dir. Rom.":[:["Bullettino del Istituto di diritto romano":[:[
+"Bull. Rylands Libr.":[:["Bulletin of John Rylands Library":[:[
+"Burkert, GR":[:["W. Burkert, trans. J. Raffan, Greek Religion (1985)":[:[
+"Burkert, HN":[:["W. Burkert, trans. P. Bing, Homo Necans (1983)":[:[
+"Burnet, EGP":[:["J. Burnet, Early Greek Philosophy, 4th edn. (1930)":[:[
+"Bursian":[:["C. Bursian, Geographie von Griechenland 2 (1872)":[:[
+"Jahresb.":[:["Bursian's Jahresberichte über die Fortschritte der Altertumswissenschaft
+(1873– )":[:[
+"Busolt, Gr. Gesch.":[:["G. Busolt, Griechische Geschichte, 4 vols., vols. 1 and 2 in 2nd edn. (1893–
+1904)":[:[
+"Byz. Forsch.":[:["Byzantinische Forschungen":[:[
+"Byz. und Neugr. Jahrb.":[:["Byzantinisch-neugriechische Jahrbücher":[:[
+"Byz. Zeitschr.":[:["Byzantinische Zeitschrift":[:[
+"C&M":[:["Classica et Mediaevalia":[:[
+"Cabrol–Leclerq, Dict. d'arch. chrétienne":[:["F. Cabrol and H. Leclerq (eds.), Dictionnaire d'archéologie chrétienne et de
+liturgie, 15 vols. (1907–53)":[:[
+"Caes.":[:["Caesar":[:[
+"BAfr.":[:["Bellum Africum":[:[
+"BCiv.":[:["Bellum Civile":[:[
+"BGall.":[:["Bellum Gallicum":[:[
+"CAF":[:["T. Kock, Comicorum Atticorum Fragmenta (1880–8)":[:[
+"CAH":[:["Cambridge Ancient History, 2nd edn. (1961–":[:[":[ 1st edn. 1923–39)"
+"Cahiers de la DAFI":[:["Cahiers de la délegation française en Iran":[:[
+"Callim.":[:["Callimachus":[:[
+"Aet.":[:["Aetia":[:[
+"Epigr.":[:["Epigrammata":[:[
+"Hymn 1":[:["Hymn to Zeus":[:[
+"”":[2:["”":["” Apollo":[
+"”":[3:["”":["” Artemis":[
+"”":[4:["”":["” Delos":[
+"”":[5:["”":["” Athena":[
+"”":[6:["”":["” Demeter":[
+"Ia.":[:["Iambics":[:[
+"Calp. Ecl.":[:["Calpurnius Siculus, Eclogues":[:[
+"Carm. arv.":[:["Carmen arvale":[:[
+"Carm. epigr.":[:["Carmina epigraphica (‘pars posterior’ of Anthologia Latina)":[:[
+"Carm. pop.":[:["Carmina popularia in Diehl's Anth. Lyr. Graec. 2, pp. 192–208":[:[
+"Carm. Sal.":[:["Carmen Saliare":[:[
+"Cary, Geographic Background":[:["M. Cary, The Geographic Background of Greek and Roman History (1949)":[:[
+"Cary–Warmington, Explorers":[:["M. Cary and E. H. Warmington, The Ancient Explorers (1929:[
+Penguin/Pelican, 1963)":[:[
+"Cass. Dio":[:["Cassius Dio":[:[
+"Cassiod.":[:["Cassiodorus":[:[
+"Inst.":[:["Institutiones":[:[
+"Var.":[:["Variae":[:[
+"Castagnoli, Stud. urb.":[:["F. Castagnoli (ed.), Studi di urbanistica antica (1966)":[:[
+"Cat. Lit. Pap.":[:["H. J. M. Milne, Catalogue of the Literary Papyri in the British Museum (1927)":[:[
+"Cato, Agr.":[:["Cato, De agricultura or De re rustica":[:[
+"Orig.":[:["Origines":[:[
+"Catull.":[:["Catullus":[:[
+"Caven, Punic Wars":[:["B. Caven, The Punic Wars (1988)":[:[
+"Cawkwell, Greek Wars":[:["G. Cawkwell, The Greek Wars:[ The Failure of Persia (2005)":[:[
+"CCAG":[:["Catalogus Codicum Astrologorum Graecorum, ed. F. Cumont and others 9
+vols.":[:[
+"CCGS":["Corpus Christianorum, series Graeca (1977– )"
+"CCSL":["Corpus Christianorum, series Latina (1953– )"
+"CDCC":["G. Shipley, J. Vanderspoel, D. Mattingly, and L. Foxhall (eds.), The Cambridge
+Dictionary of Classical Civilization (2006)"
+"CÉFR":["Collections de l'École française de Rome (1976– )"
+"CEG":["P. A. Hansen, Carmina Epigraphica Graeca, 2 vols. (1983–9)"
+"Celsus, Med.":["Celsus, De medicina"
+"Censorinus, DN":["Censorinus, De die natali"
+"CGF":["G. Kaibel, Comicorum Graecorum Fragmenta (1899)"
+"CGL":["Corpus grammaticorum Latinorum"
+"Chalcid. In Tim.":["Chalcidius, In Platonis Timaeum"
+"Charisius, Gramm.":["Charisius, Ars grammatica"
+"Chassignet":["Chassignet's Budé texts of L'annalistique romaine 1 (1996), 2 (1999), 3 (2004)"
+"CHCL":["Cambridge History of Classical Literature, 1:[ Greek Literature, ed. P. E.
+Easterling and B. M. W. Knox (1985):[ 2:[ Latin Literature, ed. E. J. Kenney and
+W. V. Clausen (1982)"
+"CHGRW":["P. Sabin, H. van Wees, and M. Whitby (eds.), The Cambridge History of Greek
+and Roman Warfare, 2 vols. (2007)"
+"Chiron":["Chiron:[ Mitteilungen der Kommission für alte Geschichte und Epigraphik des
+deutschen archäologischen Instituts"
+"CHJ":["Cambridge Historical Journal"
+"CHLC":["G. A. Kennedy (ed.), Cambridge History of Literary Criticism 1:[ Classical
+Criticism (1989)"
+"Christ–Schmid–Stählin":["W. von Christ, Geschichte d. griechischen Literatur, rev. W. Schmid and O.
+Stählin, vol. 2/1 6. See also 2/2 6 Schmid–Stählin"
+"Chron. d'É":["Chroniques d'Égypte"
+"Chron. Marcell.":["Marcellinus, Chronicon"
+"Chron. min.":["Chronica minora"
+"Chron. Pasch.":["Chronicon Paschale"
+"CIA":["Corpus Inscriptionum Atticarum (1825–":[")":[:[
+"Cic.":["Cicero (Marcus Tullius)"
+"Acad.":["Academicae quaestiones"
+"Acad. post.":["Academica posteriora (= Plasberg, Bk. 4)"
+"Acad. Pr.":["Academica Priora (= Plasberg, Bk. 1)"
+"Ad Brut.":["Epistulae ad Brutum"
+"Amic.":["De amicitia"
+"Arch.":["Pro Archia"
+"Att.":["Epistulae ad Atticum"
+"Balb.":["Pro Balbo"
+"Brut.":["Brutus or De Claris Oratoribus"
+"Caecin.":["Pro Caecina"
+"Cael.":["Pro Caelio"
+"Cat.":["In Catilinam"
+"Clu.":["Pro Cluentio"
+"Corn.":["Pro Cornelio de maiestate (fragmentary)"
+"De imp. Cn. Pomp.":["see Leg. Man."
+"Deiot.":["Pro rege Deiotaro"
+"De or.":["De oratore"
+"Div.":["De divinatione"
+"Div. Caec.":["Divinatio in Caecilium"
+"Dom.":["De domo sua"
+"Fam.":["Epistulae ad familiares"
+"Fat.":["De fato"
+"Fin.":["De finibus"
+"Flac.":["Pro Flacco"
+"Font.":["Pro Fonteio"
+"Har. resp.":["De haruspicum responso"
+"Inv. rhet.":["De inventione rhetorica"
+"Leg.":["De legibus"
+"Leg. agr.":["De lege agraria"
+"Leg. Man.":["Pro lege Manilia or De imperio Cn. Pompeii"
+"Lig.":["Pro Ligario"
+"Luc.":["Lucullus or Academica posteriora"
+"Marcell.":["Pro Marcello"
+"Mil.":["Pro Milone"
+"Mur.":["Pro Murena"
+"Nat. D.":["De natura deorum"
+"Off.":["De officiis"
+"Orat.":["Orator ad M. Brutum"
+"Part. or.":["Partitiones oratoriae"
+"Phil.":["Orationes Philippicae"
+"Pis.":["In Pisonem"
+"Planc.":["Pro Plancio"
+"Prov. cons.":["De provinciis consularibus"
+"QFr.":["Epistulae ad Quintum fratrem"
+"QRosc.":["Pro Roscio comoedo"
+"Quinct.":["Pro Quinctio"
+"Rab. Post.":["Pro Rabirio Postumo"
+"Red. pop.":["Post reditum ad populum"
+"Red. sen.":["Post reditum in senatu"
+"Rep.":["De republica"
+"Rosc. Am.":["Pro Sexto Roscio Amerino"
+"Scaur.":["Pro Scauro"
+"Sen.":["De senectute"
+"Sest.":["Pro Sestio"
+"Somn.":["Somnium Scipionis"
+"Sull.":["Pro Sulla"
+"Tog. cand.":["Oratio in senatu in toga candida (fragmentary)"
+"Top.":["Topica"
+"Tusc.":["Tusculanae disputationes"
+"Vat.":["In Vatinium"
+"Verr.":["In Verrem"
+"Cicero, Comment. pet.":["Cicero (Quintus), Commentariolum petitionis"
+"Cichorius, Röm. Stud.":["C. Cichorius, Römische Studien (1922:[ repr. 1961) (cited by chapter and
+section)"
+"CIE":["Corpus Inscriptionum Etruscarum (1893– )"
+"CIJ":["Corpus Inscriptionum Iudaicarum, ed. J.-B. Frey (1936–52)"
+"CIL":["Corpus Inscriptionum Latinarum (1863– )"
+"CISem.":["Corpus Inscriptionum Semiticarum (1881–":[")":[:[
+"CJ":["Classical Journal"
+"Cl. Ant.":["Classical Antiquity"
+"Claud.":["Claudianus"
+"Cons. Hon.":["De consulatu Honorii"
+"Cons. Stil.":["De consulatu Stilichonis"
+"CLE":["F. Bücheler and E. Lommatzsch (eds.), Carmina Latina Epigraphica (1895–
+1926)"
+"Clem. Al.":["Clemens Alexandrinus"
+"Protr.":["Protrepticus"
+"Strom.":["Stromateis"
+"Clinton, Iconography":["K. Clinton, Myth and Cult:[ The Iconography of the Eleusinian Mysteries
+(1992)"
+"Sacred Officials":["The Sacred Officials of the Eleusinian Mysteries (1974)"
+"CMG":["Corpus Medicorum Graecorum (1908– )"
+"CML":["Corpus Medicorum Latinorum (1915– )"
+"Coarelli, Roma":["F. Coarelli, Guida archeologica Laterza:[ Roma, 6th edn. (1989)"
+"Cod.":["Codex"
+"Codd. Lat. Ant. (Lowe)":["E. A. Lowe, Codices Latini Antiquiores (1934–66):[ Suppl. (1971):[ 2nd edn. of
+vol. 1 (1972)"
+"Cod. Iust.":["Codex Iustinianus"
+"Cod. Theod.":["Codex Theodosianus"
+"Coll. Alex.":["see Powell"
+"Collingwood–Myres, Roman Britain":["R. G. Collingwood and J. N. L. Myres, Roman Britain and the English
+Settlements, 2nd edn. (1937:[ repr. 1963)"
+"Collingwood–Wright, RIB":["R. G. Collingwood, R. P. Wright, and others, The Roman Inscriptions of
+Britain (1965– )"
+"Columella, Rust.":["Columella, De re rustica"
+"Comm. in Arist. Graeca":["Commentaria in Aristotelem Graeca"
+"Conon, Narr.":["Conon Mythographus, Διηγήσεις"
+"Const.":["Constitutio"
+"Conway, Ital. Dial.":["R. S. Conway, Italic Dialects (1897)"
+"Cook, Zeus":["A. B. Cook, Zeus:[ A Study in Ancient Religion, vol. 1 (1914), 2 (1925), 3
+(1940)"
+"Cornutus, Theol.":["Cornutus (L. Annaeus),"
+"Graec.":["Ἐπιδρομὴ τῶν κατὰ τὴν Ἑλληνικὴν θΘεολογίαν παραδεδομένων"
+"Corp. poes. ep. Graec. lud.":["Corpusculum poesis epicae Graecae ludibundae 1:[ Parodia et Archestratus, P.
+Brandt (1888):[ 2:[ Syllographi Graeci, C. Wachsmuth (1885)"
+"Cosmopoulos, Mysteries":["M. B. Cosmopoulos, Greek Mysteries:[ The Archaeology of Ancient Greek
+Secret Cults (2003)"
+"Courtney, FLP":["E. Courtney, The Fragmentary Latin Poets (1993)"
+"CPhil.":["Classical Philology"
+"CPL":["Corpus Poetarum Latinorum (1894–1920)"
+"CQ":["Classical Quarterly"
+"CR":["Classical Review"
+"CR Acad. Inscr.":["Comptes rendus de l'Académie des Inscriptions et Belles-lettres"
+"Cramer, Anecd. Par.":["see Anecd. Par."
+"CRF":["see Ribbeck"
+"CronASA":["Cronache di archeologia e di storia dell'arte"
+"Cron. Erc.":["Bolletino del Centro internazionale per lo studio dei papyri ercolanesi"
+"CT":["S. Hornblower, Comm. Thucydides"
+"CTh":["Cod. Theod."
+"CSEL":["Corpus Scriptorum Ecclesiasticorum Latinorum (1866 ff.)"
+"Cul.":["Culex (see appendix vergiliana)"
+"Cullen":["T. Cullen (ed.), Aegean Prehistory:[ A review (2001)"
+"Cumont, Rel. or.":["F. Cumont, Les Religions orientales dans le paganisme romain, 4th edn. (1929)"
+"Curt.":["Q. Curtius Rufus"
+"CVA":["Corpus Vasorum Antiquorum (1925–":[")":[:[
+"CW":["Classical World"
+"Cyprian De. idol. vanit.":["De idolorum vanitate"
+"Cyril. Adv. Iul.":["Cyrillus, Adversus Iulianum"
+"Dam. Isid.":["Damascius, Vita Isidori"
+"Dar.–Sag.":["C. Daremberg and E. Saglio, Dictionnaire des antiquités grecques et romaines
+d'après les textes et les monuments (1877–1919)"
+"Davies, APF":["J. K. Davies, Athenian Propertied Families 600–300 bc (1971)"
+"Davies, EGF":["M. Davies, Epicorum Graecorum Fragmenta (1988)"
+"PMGF":["Poetarum Melicorum Graecorum Fragmenta (1991)"
+"DB":["Inscription of Darius I at Bisutun"
+"DCB":["Dictionary of Christian Biography and Literature, ed. H. Wace and W. C.
+Piercy (1911)"
+"DCPP":["Dictionnaire de la civilisation phénicienne et punique (1992)"
+"Déchelette, Manuel":["J. Déchelette, Manuel d'archéologie préhistorique, celtique et gallo-romaine
+(1908–14)"
+"De Com.":["see Anon. De Com."
+"Def. tab. Audollent":["A. Audollent, Defixionum Tabellae (1904)"
+"Def. tab. Wünsch":["R. Wünsch, Defixionum Tabellae (= IG 3/3) (1897)"
+"Degrasi, ILLRP":["see ILLRP"
+"Délos":["Explorations archéologiques de Délos (1909–":[:[")":[
+"Dem.":["Demosthenes"
+"De cor.":["De corona"
+"Epit.":["Epitaphius"
+"Lept.":["Against Leptines"
+"Meid.":["Against Meidias"
+"Demetr. Eloc.":["Demetrius [Phalereus], De Elocutione=Περὶ έρμηνείας"
+"Demiańczuk, Supp. Com.":["J. Demiańczuk, Supplementum Comicum (1912)"
+"Democr.":["Democritus"
+"De Sanctis, Stor. Rom.":["G. De Sanctis, Storia dei Romani, vols. 1–2 2 (1959–60), 3 2 (1967–8), 4/1 2
+(1969), 4/2–3 (1953–64)"
+"Dessau, ILS":["H. Dessau, Inscriptiones Latinae Selectae (1892–1916)"
+"Deubner, Attische Feste":["L. Deubner, Attische Feste (1932)"
+"Develin, AO":["R. Develin, Athenian Officials 684- 321 bc (1989)"
+"De vir. ill.":["De viris illustribus (auctor ignotus)"
+"DFA 3":["A.W. Pickard-Cambridge, rev. J. Gould and D. M. Lewis, Dramatic Festivals
+of Athens, 3rd edn. (1988)"
+"DHA":["Dialogues d'histoire ancienne"
+"Dial. di Arch.":["Dialoghi di archeologia"
+"Dict. Sci. Biogr.":["Dictionary of Scientific Biography, ed. C. Gillespie (1970–80)"
+"Dict. Spir.":["Dictionnaire de spiritualité ascétique et mystique (1933)"
+"Did. Iul.":["Didius Iulianus, see SHA"
+"Diehl. Anth. Lyr. Graec.":["E. Diehl, Anthologia Lyrica Graeca (1925:[ 2nd edn. 1942:[ 3rd edn. 1949–52)"
+"Poet. Rom. vet.":["Poetarum Romanorum veterum reliquiae (1911)"
+"Diels, Dox. Graec.":["H. Diels, Doxographi Graeci (1879)"
+"Diels–Kranz, Vorsokr.":["see DK"
+"Dig.":["Digesta"
+"Din.":["Dinarchus"
+"Dio Cass.":["Dio Cassius"
+"Dio Chrys. Or.":["Dio Chrysostomus Orationes"
+"Diocl. Magn.":["Diocles of Magnesia"
+"Dio Cocc.":["Dio Cocceianus:[ see Dio Chrys."
+"Diod. Sic.":["Diodorus Siculus"
+"Diogenian.":["Diogenianus Paroemiographus"
+"Diog. Laert.":["Diogenes Laertius"
+"Diom.":["Diomedes Grammaticus"
+"Dion. Calliphon.":["Dionysius Calliphontis filius"
+"Dion. Hal.":["Dionysius Halicarnassensis"
+"Ant. Rom.":["Antiquitates Romanae"
+"Comp.":["De compositione verborum"
+"De imit.":["De imitatione"
+"Dem.":["De Demosthene"
+"Isoc.":["De Isocrate"
+"Lys.":["De Lysia"
+"Pomp.":["Epistula ad Pompeium"
+"Rhet.":["Ars rhetorica"
+"Thuc.":["De Thucydide"
+"Vett. cens.":["De veterum censura"
+"Dion. Thrax":["Dionysius Thrax"
+"Dionys. Per.":["Dionysius Periegeta"
+"Diss. Pan.":["Dissertationes Pannonicae (1932–":[")":[:[
+"Dittenberg. Syll. 3":["see Syll. 3"
+"Diz. Epigr.":["see Ruggiero"
+"DK":["H. Diels and W. Kranz, Fragmente der Vorsokratiker, 6th edn. (1952)"
+"DNP":["Der Neue Pauly"
+"Donat.":["Aelius Donatus"
+"Vit. Verg.":["Vita Vergilii"
+"DOP":["Dumbarton Oaks Papers"
+"Dox. Graec.":["see Diels"
+"D Serv.":["see Serv. Dan."
+"DTC":["Dictionnaire de Théologie Catholique, ed. A. Vacant, E. Mangenot, and E.
+Amann, 15 vols. (1903–50)"
+"Duff, Minor Lat. Poets":["J.W. and A. M. Duff, Minor Latin Poets (Loeb, 1935:[ repr. 1968, 1982)"
+"Dumézil, ARR":["G. Dumézil, Archaic Roman Religion (1987:[ Fr. orig. 1974)"
+"Dunbabin,Western Greeks":["T. J. Dunbabin, The Western Greeks (1948)"
+"EA":["Epigraphica Anatolica"
+"EAA":["Enciclopedia dell'arte antica (1958– )"
+"Edmonds, FAC":["J. M. Edmonds, Fragments of Attic Comedy 3 vols. (1957–61)"
+"EEC":["Encyclopaedia of the Early Church, 2 vols. (1992)"
+"EGF":["G. Kinkel, Epicorum Graecorum Fragmenta (1877):[ in part superseded by
+Bernabé, PEG"
+"EJ":["V. Ehrenberg and A. H. M. Jones, Documents Illustrating the Reigns of
+Augustus and Tiberius, 2nd edn. (1976)"
+"EGM":["R. Fowler, Early Greek Mythography 1 (2000), 2 (2013)"
+"Enc. Brit.":["Encyclopaedia Britannica"
+"Enc. Ir.":["Enciclopedia Iranica, ed. E. Yar- Shater (1985–":[")":[:[
+"Enc. Virg.":["Enciclopedia Virgiliana, 5 vols. (1984–90)"
+"Enn. Ann.":["Ennius, Annales"
+"Entretiens Hardt":["Fondation Hardt, Essais sur l'antiquité classique (1952–":[:[")":[
+"Ep.":["Epistula"
+"Eph. Epigr.":["Ephemeris Epigraphica, Corporis Inscriptionum Latinarum Supplementum
+(1872– )"
+"Epicharm.":["Epicharmus"
+"Epicurus":["Epicurus"
+"Ep.":["Epistulae"
+"Ep. Hdt.":["Epistula ad Herodotum"
+"Ep. Men.":["Epistula ad Menoeceum"
+"Ep. Pyth.":["Epistula ad Pythoclem"
+"Sent. Vat.":["Vatican Sayings = Gnomologium Vaticanum"
+"RS":["Ratae sententiae"
+"Epigr. Gr.":["G. Kaibel, Epigrammata Graeca ex lapidibus conlecta (1878)"
+"Epiph. Adv. haeres.":["Epiphanius, Adversus haereses"
+"Epit.":["Epitome"
+"Epit. de Caes.":["Epitome de Caesaribus (in Teubner Aur. Vict. Caes., ed. F. Pichlmayer (1911),
+133–76)"
+"Epit. Oxyrh.":["Epitome Oxyrhynchica of Livy"
+"EPRO":["Études préliminaires aux religions orientales dans l'empire romain"
+"Eratosth.":["Eratosthenes"
+"[Cat.]":["[Καταστερισμοί]"
+"ERE":["see Hastings"
+"Ἔργον":["Τὸ Ἔργον τῆς Ἀρχαιολογικῆς Ἑταιρείας"
+"Ét. de Pap.":["Études de papyrologie (1932–74)"
+"Etym. Magn.":["Etymologicum Magnum"
+"Euc.":["Euclid"
+"Eudem.":["Eudemus"
+"Eunap.":["Eunapius"
+"VS":["Vitae sophistarum"
+"Eup.":["Eupolis"
+"Eur.":["Euripides"
+"Alc.":["Alcestis"
+"Andr.":["Andromache"
+"Bacch.":["Bacchae"
+"Beller.":["Bellerophon"
+"Cyc.":["Cyclops"
+"El.":["Electra"
+"Hec.":["Hecuba"
+"Hel.":["Helena"
+"Heracl.":["Heraclidae"
+"HF":["Hercules furens"
+"Hipp.":["Hippolytus"
+"Hyps.":["Hypsipyle"
+"IA":["Iphigenia Aulidensis"
+"IT":["Iphigenia Taurica"
+"Med.":["Medea"
+"Or.":["Orestes"
+"Phoen.":["Phoenissae"
+"Rhes.":["Rhesus"
+"Sthen.":["Stheneboea"
+"Supp.":["Supplices"
+"Tro.":["Troades"
+"Euseb.":["Eusebius"
+"Chron.":["Chronica"
+"Hist. eccl.":["Historia ecclesiastica"
+"Praep. evang.":["Praeparatio evangelica"
+"Vit. Const.":["Vita Constantini"
+"Eust.":["Eustathius"
+"Il.":["Ad Iliadem"
+"Od.":["Ad Odysseam"
+"Prooem. ad Pind.":["Eustathii prooemium commentariorum Pindaricorum, ed. F. W.
+Schneidewin (1837)"
+"Eutocius, In Arch. circ. dim.":["Eutocius, In Archimedis circuli dimensionem"
+"Eutr.":["Eutropius"
+"EW":["East and West"
+"FAC":["see Edmonds"
+"Facella":["M. Facella, La dinastia degli Orontidi nella Commagene ellenistico-romana
+(2006)"
+"Farnell, Cults":["L. R. Farnell, The Cults of the Greek States (1896–1909)"
+"Hero-Cults":["Greek Hero-Cults and Ideas of Immortality (1921)"
+"Fasti sacerdotum":["J. Rüpke and others, Fasti sacerdotum:[ die Mitglieder der Priesterschaften und
+das sakrale Funktionspersonal römischer, griechischer, orientalischer und
+jüdisch-christlicher Kulte in der Stadt Rom von 300 v. Chr. bis 499 n. Chr., 3
+vols. (2005)"
+"FCG":["see Meineke"
+"FCGM":["see Olivieri"
+"FD":["Fouilles de Delphes"
+"Festus, Gloss. Lat.":["W. M. Lindsay's second edn. of Festus in his Glossaria Latina, vol. 4"
+"FGrH":["F. Jacoby, Fragmente der griechischen Historiker (1923– )"
+"FHG":["C. Müller, Fragmenta Historicorum Graecorum (1841–70)"
+"FIRA":["see Riccobono, FIRA"
+"Firm. Mat.":["Firmicus Maternus"
+"Err. prof. rel.":["De errore profanarum religionum"
+"Fittschen and Zanker":["K. Fittschen and P. Zanker, Katalog der römischen Porträts in den
+capitolinischen Museen (1983– )"
+"Fleck J. Suppl.":["Fleckeisens Jahrbücher für klassische Philologie, Suppl. 24 (1898)= Neue
+Jahrbücher f. d. klassische Altertum"
+"Flor.":["L. Annaeus Florus"
+"FLP":["see Courtney, FLP"
+"FOR":["Forma Orbis Romanae. Carte archéologique de la Gaule romaine, ed. A.
+Blanchet (1931– )"
+"Forbes, Stud. Anc. Technol.":["R. J. Forbes, Studies in Ancient Technology, 9 vols. (1957–64):[ 2nd edn., 9
+vols. (1964–72)"
+"Fornara":["C.W. Fornara (ed.), Archaic Times to the End of the Peloponnesian War, 2nd
+edn.:[ Translated Documents of Greece and Rome 1 (1983)"
+"FPG":["F. W. A. Mullach, Fragmenta Philosophorum Graecorum (1860–81)"
+"FPL":["see Morel-Büchner, FPL"
+"FPR":["see Baehr."
+"Frank, Econ. Survey":["T. Frank (ed). An Economic Survey of Ancient Rome, 5 vols. (1933–40)"
+"Fraser, Cities":["P. M. Fraser, Cities of Alexander the Great (1996)"
+"Fraser, GET":["P. M. Fraser, Greek Ethnic Terminology (2009)"
+"Fraser, Ptol. Alex.":["P. M. Fraser, Ptolemaic Alexandria, 3 vols. (1972)"
+"Frere, Britannia":["S. S. Frere, Britannia (1967:[ 3rd edn., extensively revised, 1987)"
+"FRH":["H. Beck and U. Walter, Die Frühen Römischen Historiker (2001– )"
+"FRHist":["T. J. Cornell (ed.), Fragments of the Roman Historians (forthcoming)"
+"Friedländer, Rom. Life":["L. Friedländer, Darstellung aus der Sittengeschichte Roms9–10 (1921–3), rev.
+G.Wissowa 6:[ Roman Life and Manners under the Early Empire, Eng. trans."
+:["from 7th edn. (1908–13)"
+"Frontin.":["Frontinus"
+"Aq.":["De aquae ductu urbis Romae"
+"Str.":["Strategemata"
+"Fronto, Ep.":["Fronto, Epistulae"
+"FRP":["A. S. Hollis, Fragments of Roman Poetry c. 60BC–AD 20 (2009)"
+"Fulg.":["Fulgentius"
+"Myth.":["Mitologiae tres libri"
+"Funaioli, Gramm. Rom. Frag.":["H. Funaioli, Grammaticae Romanae fragmenta (1907), vol. 1 alone published."
+"FUR":["Forma Urbis Romae, ed. G. Corettoni and others (1960)"
+"G & R":["Greece and Rome, ns (1954/5– )"
+"Gabba-Vallet, Sicilia antica":["E. Gabba and G. Vallet (eds.), La Sicilia antica, 2 vols. in 5 (1980)"
+"GAC":["R. Hope Simpson and O. Dickinson, Gazetteer of Aegean Civilisation in the
+Bronze Age 1:[ The Mainland and Islands (1979)"
+"Gai. Inst.":["Gaius, Institutiones"
+"Gal.":["Galen"
+"De loc. aff.":["De locis affectis"
+"Libr. Propr.":["Περὶ τῶν ἰδίων βιβλίων"
+"Nat. Fac.":["Περὶ φυσικῶν δυνάάμεων"
+"Gantz, EGM":["T. Gantz, Early Greek Myth (1993)"
+"GB":["Grazer Beiträge:[ Zeitschrift für klassische Altertumswissenschaft"
+"GCS":["Die griechischen christlichen Schriftsteller der erstern Jahrhunderte (1897–":[")":[:[
+"GCN":["Groningen Colloquia on the Greek and Roman Novel"
+"GDI":["H. Collitz and others, Sammlung der griechischen Dialektinschriften (1884–
+1915)"
+"Gell.":["Aulus Gellius"
+"NA":["Noctes Atticae"
+"Gerber, GLP":["D. E. Gerber (ed.), A Companion to the Greek Lyric Poets (1997)"
+"German.":["Germanicus"
+"Arat.":["Aratea"
+"Gesch.":["Geschichte"
+"Gezähmte Götter":["V. Rosenberger, Gezähmte Götter:[ das Prodigienwesen der römischen
+Republik (1998)"
+"GGM":["C. Müller, Geographici Graeci Minores (1855–61)"
+"GJ":["Geographical Journal"
+"Gjerstad, Early Rome":["E. Gjerstad, Early Rome, 6 vols. (1953–73)"
+"Gloss. Lat.":["see Lindsay"
+"Glotz, Hist. grecque":["G. Glotz, R. Cohen, and P. Roussel, Histoire grecque vols. 1–4/1 (1925–38)"
+"GLP":["see Page, GLP"
+"Gnomon":["Gnomon, Kritische Zeitschrift für d. gesamte klassische Altertumswiss."
+"Gomperz":["T. Gomperz, Griechische Denker (1896):[ Eng. trans. (‘Greek Thinkers’), vols.
+1–4 (1901–12)"
+"Gorg.":["Gorgias"
+"Hel.":["Helena"
+"Pal.":["Palamedes"
+"Gött. Anz.":["Göttingischer gelehrte Anzeigen"
+"Gött. Nachr.":["Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen"
+"Gow–Page, GP":["A. S. F. Gow and D. L. Page, The Greek Anthology:[ Garland of Philip and
+some Contemporary Epigrams, 2 vols. (1968)"
+"Gow–Page, HE":["A. S. F. Gow and D. L. Page, The Greek Anthology:[ Hellenistic Epigrams, 2
+vols. (1965)"
+"Graf, Eleusis":["F. Graf, Eleusis und die orphische Dichtung:[ Athens in vorhellenistischer Zeit
+(1974)"
+"Gramm. Lat.":["see Keil"
+"Gramm. Rom. Frag.":["see Funaioli:[ Mazzarino"
+"GRBS":["Greek, Roman and Byzantine Studies"
+"Green":["R. P. H. Green, The Works of Ausonius (1991)"
+"Greenidge, Clay, Gray, Sources":["A. H. J. Greenidge, A. M. Clay, and E. W. Gray, Sources for Roman History,
+133–70 bc (1960:[ 2nd edn., corrected and supplemented, 1986)"
+"Gregory of Tours":["Gregory of Tours"
+"Hist.":["Historiae"
+"Glor. mart.":["Gloria martyrorum"
+"Grenier, Manuel":["A. Grenier, Manuel d'archéologie gallo-romaine (1931–4):[ = vol. of
+Déchelette's Manuel d'archéologie préhistorique"
+"Grove Encyclopedia":["G. Campbell (ed.), The Grove Encyclopedia of Classical Art and Architecture
+(2007)"
+"Gruen, LGRR":["E. S. Gruen, The Last Generation of the Roman Republic (1974)"
+"Guthrie, Hist. Gk. Phil.":["W. K. C. Guthrie, History of Greek Philosophy (1965–81)"
+"GVI":["W. Peek, Griechische Vers- Inschriften 1:[ Grab-Epigramme (1955)"
+"Hainsworth, Iliad comm.":["B. Hainsworth, The Iliad:[ A Commentary 3:[ Books 9–12 (1993)"
+"Hainsworth, Odyssey comm.":["A. Heubeck, S.West, and J. B. Hainsworth, A Commentary on Homer's
+Odyssey 1:[ Introduction and Books 1–8 (1988)"
+"Halm, Rhet. Lat. Min.":["K. Halm, Rhetores Latini Minores (1863)"
+"HAMA":["O. Neugebauer, A History of Ancient Mathematical Astronomy, 3 vols. (1975)"
+"Hammond, Epirus":["N.G. L. Hammond, Epirus (1967)"
+"Hist. G.":["History of Greece (2nd edn. 1967:[ 3rd edn. 1986)"
+"Hansen, Attalids":["C. V. Hansen, The Attalids of Pergamum (1947)"
+"Harding":["P. Harding, From the End of the PeloponnesianWar to the Battle of Ipsus:[
+Translated Documents of Greece and Rome 2 (1985)"
+"Harp.":["Harpocration"
+"Harv. Stud.":["Harvard Studies in Classical Philology"
+"Harv. Theol. Rev.":["Harvard Theological Review"
+"Hastings, ERE":["J. Hastings, Encyclopaedia of Religion and Ethics, 12 vols. (1908–21):[ index
+vol. (1926)"
+"Haynes, Etr. civ.":["S. Haynes, Etruscan Civilization:[ A Cultural History (2000)"
+"HCT":["A. W. Gomme, A. Andrewes, and K. J. Dover, A Historical Commentary on
+Thucydides, 5 vols. (1945–81)"
+"Hdn.":["Herodianus"
+"Hdt.":["Herodotus"
+"Head, Hist. Num.":["B. V. Head, Historia Numorum, 2nd edn. (1911)"
+"Heath, Hist. of Greek Maths.":["T. L. Heath, History of Greek Mathematics, 2 vols. (1921)"
+"Heckel, Marshals":["W. Heckel, The Marshals of Alexander's Empire (1992)"
+"Heckel, Who's Who":["W. Heckel, Who's Who in the Age of Alexander the Great (2006)"
+"Heitsch, Griech. Dichterfr.":["E. Heitsch (ed.), Die griechischen Dichterfragmente der römischen Kaiserzeit
+1, Abh. der Akad. der Wissenschaften in Göttingen, phil.-hist. Kl. 3. Folge, 49
+(1961:[21963), 58 (1964)"
+"Heliod. Aeth.":["Heliodorus, Aethiopica"
+"Hell. Oxy.":["Hellenica Oxyrhynchia"
+"Heph.":["Hephaestion"
+"Heraclid. Pont.":["Heraclides Ponticus"
+"Hercher, Epistolog. Graec.":["R. Hercher, Epistolographi Graeci (1873)"
+"Hermes":["Hermes, Zeitschrift für klassische Philologie"
+"Hermog.":["Hermogenes"
+"Id.":["Περὶ ὶδεῶν"
+"Inv.":["Περὶ εὑρέσεως"
+"Prog.":["Προγυμνάάσματα"
+"Herod.":["Herodas"
+"Heron, Pneum.":["Heron, Pneumatica"
+"Herzog–Schmidt":["R. Herzog and P. Schmidt, Handbuch der lateinischen Literatur der Antike
+(1989– )"
+"Hes.":["Hesiod"
+"Cat.":["Catalogus mulierum"
+"Op.":["Opera et Dies"
+"[Sc.]":["Scutum"
+"Theog.":["Theogonia"
+"Hesp.":["Hesperia:[ Journal of the American School of Classical Studies at Athens"
+"Hieron.":["Hieronymus, see Jerome"
+"Hignett, Hist. Athen. Const.":["C. Hignett, A History of the Athenian Constitution (1952)"
+"Himer. Ecl.":["Himerius, Eclogae"
+"Or.":["Orationes"
+"Hippoc.":["Hippocrates"
+"Acut.":["De diaeta in morbis acutis"
+"Aer.":["De aera, aquis, locis"
+"Art.":["De articulis"
+"[Ep.]":["Epistulae"
+"Epid.":["Epidemiae"
+"Morb.":["Περι? νούσων (On Diseases)"
+"Morb. sacr.":["De morbo sacro"
+"Mul.":["De mulierum affectibus"
+"Nat. mul.":["De natura muliebri"
+"Nat. puer.":["Περὶ φύσιος παιδίου (On the Nature of the Child)"
+"Off.":["De officina medici"
+"Virg.":["De virginibus morbis"
+"VM":["De vetere medicina"
+"Hippol.":["Hippolytus"
+"Haer.":["Refutatio omnium haeresium"
+"Hist.":["Historia, Zeitschrift für alte Geschichte"
+"Hist. Aug.":["Historia Augusta (see SHA)"
+"HLL":["see Herzog-Schmidt:[ see also Schanz-Hosius"
+"HM":["History of Macedonia 1, ed. N. G. L. Hammond (1972):[ 2, ed. N. G. L.
+Hammond and G. T. Griffith (1979):[ 3, ed. N. G. L. Hammond and F. W.
+Walbank (1988)"
+"Hom.":["Homer"
+"Il.":["Iliad"
+"Od.":["Odyssey"
+"Hom. Hymn Dem.":["Homeric Hymn to Demeter"
+"Homil. Clement.":["Clementine Homilies"
+"Honoré 1962":["A. M. Honoré, Gaius:[ A Biography (1962)"
+"Honoré 1981":["T. Honoré, Emperors and Lawyers (1981:[ 2nd edn. 1994)"
+"Hor.":["Horace"
+"Ars P.":["Ars poetica"
+"Carm.":["Carmina or Odes"
+"Carm. saec.":["Carmen saeculare"
+"Epist.":["Epistulae"
+"Epod.":["Epodi"
+"Sat.":["Satirae or Sermones"
+"Hornblower, Comm. on Thuc.":["S. Hornblower, Commentary on Thucydides 1:[ Books 1–3 (1991):[ 2:[ Books 4–
+5.24 (1996):[ 3:[ Books 5.26–8.109 (2008)"
+"HR":["History of Religions"
+"HRRel.":["see under Peter"
+"Hsch.":["Hesychius"
+"Hyde, Greek Mariners":["W. Hyde, Ancient Greek Mariners (1947)"
+"Hyg.":["Hyginus"
+"Fab.":["Fabulae"
+"Poet. astr.":["Poetica astronomica"
+"Hymn. Hom. Ap.":["Hymnus Homericus ad Apollinem"
+"Bacch.":["”":["”":["”":["Bacchum"
+"Cer. (or Dem.)":["”":["”":["”":["Cererem"
+"Mart.":["”":["”":["”":["Martem"
+"Merc.":["”":["”":["”":["Mercurium"
+"Pan.":["”":["”":["”":["Panem"
+"Ven.":["”":["”":["”":["Venerem"
+"Hymn. Mag.":["Hymni Magici"
+"Hymn. Orph.":["Hymni Orphici"
+"Hyp.":["Hyperides"
+"Lyc.":["For Lycophron"
+"IACP":["M. H. Hansen and T. H. Nielsen (eds.), An Inventory of Archaic and Classical
+Poleis (2004)"
+"Iambl.":["Iamblichus"
+"Myst.":["De mysteriis"
+"VP":["Vita Pythagorae"
+"IBR":["D. and F. R. Ridgway (eds.), Italy before the Romans (1979)"
+"Ibyc.":["Ibycus"
+"IC":["M. Guarducci (ed.), Inscriptiones Creticae, 4 vols. (1935–50)"
+"ICS":["Illinois Classical Studies"
+"IDélos":["F. Dürrbach (ed.), Inscriptions de Délos (1923–37)"
+"IDidyma":["A. Rehm, Die Inschriften. Milet 3 (1914)"
+"IE":["Indo-European"
+"IEJ":["Israel Exploration Journal"
+"IEleusis":["K. Clinton, Eleusis. The Inscriptions on Stone. Documents of the Sanctuary of
+the Two Goddesses and the Public Documents of the Deme 1 (2005), 2 (2008)"
+"IG":["Inscriptiones Graecae (1873– )"
+"IGBulg.":["G. Mihailov, Inscriptiones Graecae in Bulgaria repertae (1958–70)"
+"IGRom.":["Inscriptiones Graecae ad res Romanas pertinentes (1906–":[")":[:[
+"IJCT":["International Journal of the Classical Tradition"
+"IK":["Inschriften griechischer Städte aus Kleinasien (1972– )"
+"ILabraunda":["J. Crampa (ed.), Labraunda Swedish Excavations and Researches 3 (1 and 2):[
+The Greek Inscriptions (1969 and 1972)"
+"ILAlg.":["Inscriptions latines de l'Algérie 1, ed. S. Gsell (1922):[ 2, ed. H.-G. Pflaum
+(1957)"
+"Il.":["Iliad"
+"ILCV":["E. Diehl, Inscriptiones latinae Christianae veteres (1925–31):[ see ‘epigraphy,
+Latin’."
+"I. l. de Gaule":["Inscriptions latines des trois Gaules, ed. P. Wuilleumier (1963)"
+"ILLRP":["Inscriptiones Latinae Liberae Rei Republicae, ed. A. Degrassi, vol. 1 2 (1965), 2
+(1963)"
+"ILN":["Illustrated London News"
+"ILS":["see Dessau"
+"IMagn.":["O. Kern (ed.), Die Inschriften von Magnesia am Maeander (1900)"
+"IMU":["Italia medioevale e umanistica"
+"IMylasa":["W. Blümel, Die Inschriften von Mylasa (2 vols., 1987–8)"
+"In Dem.":["Against Demosthenes"
+"Indo-Germ. Forsch.":["Indogermanische Forschungen"
+"Ind. Stoic. Herc.":["J. Traversa, Index Stoicorum Herculanensis (1952)"
+"Inscr. Ital.":["Inscriptiones Italiae (1931/2– )"
+"Inst. Iust.":["Institutiones Iustiniani"
+"Instrumenta sacra":["A. V. Siebert, Instrumenta sacra:[ Untersuchungen zu römischen Opfer-, Kult-
+und Priestergeräten (1999)"
+"International Law in Archaic Rome":["A. Watson, International Law in Archaic Rome:[ War and Religion (1993)"
+"IPE":["Inscriptiones orae septentrionalis Ponti Euxini (1885)"
+"IrAnt":["Iranica Antiqua"
+"Iron Age in S. Britain":["S. S. Frere (ed.), Problems of the Iron Age in Southern Britain"
+"Isae.":["Isaeus"
+"ISestos":["J. Krauss, Die Inschriften von Sestos und der Thrakischen Chersones (1980)"
+"Isid.":["Isidorus"
+"De vir. ill.":["De viris illustribus"
+"Etym.":["Etymologiae"
+"Isoc.":["Isocrates"
+"Bus.":["Busiris"
+"Antid.":["Antidosis"
+"C. soph.":["Contra sophistas"
+"Panath.":["Panathenaicus"
+"Paneg.":["Panegyricus"
+"Ist. Mitt.":["Istanbuler Mitteilungen"
+"It. Alex.":["Itinerarium Alexandri"
+"It. Ant.":["Itineraria Antonini Augusti"
+"IVO":["Inschriften von Olympia, ed. W. Dittenberger and K. Purgold (1896)"
+"JACT":["Joint Association of Classical Teachers"
+"Jahrb.":["see [Neue] Jahrb."
+"Jahrb. f. cl. Phil. Suppl.":["Jahrbücher für classische Philologie, Supplementband"
+"Jahresb.":["see Bursian"
+"JCS":["Journal of Classical Studies"
+"JDAI":["Jahrbuch des [kaiserlich] deutschen archäologischen Instituts (1886–
+(contains Archäologischer Anzeiger)":[")":[:[
+"Jeffery, LSAG":["L. Jeffery, Local Scripts of Archaic Greece, 2nd edn., rev. A. Johnston (1990)"
+"JEg. Arch.":["Journal of Egyptian Archaeology"
+"Jer.":["Jerome"
+"Ab Abr.":["Ab Abraham, the chronological reckoning from the first year of Abraham
+followed in Jerome's translation and enlargement of Eusebius' Chronicle"
+"Adv. Iovinian.":["Adversus Iovinianum"
+"Chron.":["Chronica=Ab Abr."
+"De script. eccles. proleg.":["De scriptoribus ecclesiasticis prolegomena"
+"De vir. ill.":["De viris illustribus"
+"Ep.":["Epistulae"
+"JHS":["Journal of Hellenic Studies"
+"JJP":["Journal of Juristic Papyrology"
+"JNES":["Journal of Near Eastern Studies"
+"JÖAI":["Jahreshefte des österreichischen archäologischen Instituts in Wien"
+"JÖB":["Jahrbuch des österreichischen Byzantinistik (1951– )"
+"Jones, Cities E. Rom. Prov.":["A. H. M. Jones, The Cities of the Eastern Roman Provinces (1937:[ 2nd edn.
+1971)"
+"Later Rom. Emp.":["The Later Roman Empire 284–602 (1964)"
+"Jord. Get.":["Jordanes, Getica"
+"Joseph.":["Josephus"
+"AJ":["Antiquitates Judaicae"
+"Ap.":["Contra Apionem"
+"BJ":["Bellum Judaicum"
+"Vit.":["Vita"
+"Journ. Bib. Lit.":["Journal of Biblical Literature"
+"Journ. Hist. Bio.":["Journal of the History of Biology"
+"Journ. Hist. Med.":["Journal of the History of Medicine and Allied Sciences"
+"Journ. Phil.":["Journal of Philology (1868–1920):[ index (1923)"
+"Journ. Sav.":["Journal des savants, ns (1903– )"
+"JRA":["Journal of Roman Archaeology"
+"JRGZM":["Jahrbuch des römisch-germanischen Zentralmuseums"
+"JRS":["Journal of Roman Studies"
+"JSGU":["Jahrbuch der schweizerischen Gesellschaft für Ur- und Frühgeschichte"
+"JTS":["Journal of Theological Studies"
+"Julian.":["Julianus imperator"
+"Apophth.":["Apophthegmata"
+"Ep.":["Epistulae (ps.-Julian.=Ep. wrongly attributed to Julian)"
+"Mis.":["Misopogon"
+"Or.":["Orationes"
+"Just. Epit.":["Justinus, Epitome (of Trogus)"
+"Justin, Apol.":["Justin Martyr, Apologia"
+"Juv.":["Juvenal"
+"JWI":["Journal of the Warburg and Courtauld Institute"
+"κ":["κατά"
+"KA":["see Kassel-Austin"
+"Kaibel":["see CGF and Epigr. Gr."
+"Kassel–Austin, PCG":["R. Kassel and C. Austin, Poetae Comici Graeci, vol. 1 (1983), 2 (1991)"
+"Kaster, Guardians":["R. A. Kaster, Guardians of Language:[ The Grammarian and Society in Late
+Antiquity (1988)"
+"Kaster, Suetonius":["R. A. Kaster, C. Suetonius Tranquillus, De Grammaticis et Rhetoribus (1995)"
+"Kearns, Heroes of Attica":["E. Kearns, The Heroes of Attica, BICS Suppl. 57 (1989)"
+"Keil, Gramm. Lat.":["H. Keil, Grammatici Latini, 8 vols. (1855–1923:[ repr. 1961)"
+"Kern":["O. Kern"
+"Orph. frag.":["Orphica Fragmenta (1922)"
+"Rel. d. Griech.":["Die Religion der Griechen, 3 vols. (1926–38)"
+"Kirk–Raven–Schofield, Presocratic Philosophers":["G. S. Kirk, J. E. Raven, and M. Schofield, The Presocratic Philosophers, 2nd"
+:["edn. (1983)"
+"Klass. phil. Stud.":["Klassische philologische Studien, ed. E. Bickel and C. Jensen"
+"Klio":["Klio, Beiträge zur alten Geschichte"
+"Klotz, Scaen. Rom. Frag.":["A. Klotz (ed.), Scaenicorum Romanorum Fragmenta (1953)"
+"Kl. Pauly":["Der kleine Pauly (1964–75)"
+"Kl. Schr.":["Kleine Schriften (of various authors)"
+"Körte, Men. Rel.":["A. Körte, Menandri Reliquiae"
+"Kroll, Rhet.":["W. Kroll, Rhetorik (1937):[ written as article for RE, but published separately"
+"Kron, Phylenheroen":["U. Kron, Die zehn attischen Phylenheroen:[ MDAI(A) Suppl. 5 (1976)"
+"KRS":["G. S. Kirk, J. E. Raven, and M. Schofield, The Presocratic Philosophers:[ A
+Critical History with a Selection of Texts (1984)"
+"Kühn":["K. G. Kühn, Medicorum Graecorum Opera"
+"Kunkel 1967":["W. Kunkel, Herkunft und soziale Stellung der römischen Juristen, 2nd edn.
+(1967)"
+"Lactant.":["Lactantius"
+"De falsa relig.":["De falsa religione"
+"De mort. pers.":["De mortibus persecutorum"
+"Div. inst.":["Divinae institutiones"
+"LACTOR":["London Association of Classical Teachers Original Records"
+"La Mémoire perdue":["C. Moatti (ed.), La Mémoire perdue:[ recherches sur l'administration romaine
+(1998)"
+"Lambrechts, Sénat":["P. Lambrechts, La Composition du Sénat romain 117–192 (1936)"
+"Latte, RR":["K. Latte, Römische Religionsgeschichte (1960)"
+"Laur.":["Laurentian Library"
+"LCM":["Liverpool Classical Monthly"
+"LdÄ":["W. Helck, E. Otto, and W. Westendorf (eds.), Lexicon der Ägyptologie (1975–
+86)"
+"Le Collège pontifical":["F. Van Haeperen, Le Collège pontifical (3ème s.a.– 4ème s.p.C):[ contribution à
+l'étude de la religion publique romaine (2002)"
+"LEC":["Les Études classiques"
+"Leipz. Stud.":["Leipziger Studien zur klassischen Philosophie (1878–95)"
+"Lenel, Pal.":["O. Lenel, Palingenesia Iuris Civilis, 2 vols. (1889)"
+"Lex.":["Lexicon"
+"Lexikon der historischen Stätten":["S. Lauffer (ed.), Lexikon der historischen Stätten von den Anfängen bis zur
+Gegenwart (1989)"
+"Lex. Mess.":["Lexicon Messanense"
+"LGPN 1, 3A, 3B, 4":["P. M. Fraser and E. Matthews (eds.), A Lexicon of Greek Personal Names 1
+(1987) 3A (1997), 3B (2000), 4 (2005)"
+"LGPN 2":["M. Osborne and S. Byrne (eds.), A Lexicon of Greek Personal Names 2 (1994)"
+"LGPN 5A":["T. Corsten (ed.) A Lexicon of Greek Personal Names 5A (2010)"
+"LH Citadels":["S. Iakovidis, Late Helladic Citadels on Mainland Greece (1983)"
+"Lib.":["Libanius"
+"Lib. colon.":["Libri coloniarum"
+"Liebs 1987":["D. Liebs, Die Jurisprudenz im spätantiken Italien (1987)"
+"LIMC":["Lexicon Iconographicum Mythologiae Classicae (1981–":[")":[:[
+"Lindsay, Gloss. Lat.":["W. M. Lindsay, Glossaria Latina (1930)"
+"Lind. Temp. Chron.":["C. Blinkenberg, Die lindische Tempelchronik (1915)"
+"Lintott, Violence":["A.W. Lintott, Violence in Republican Rome (1968)"
+"Lippold, Griech.":["G. Lippold, Die griechische"
+"Plastik":["Plastik (Handbuch der Archäologie, 1950):[ in part superseded by J. Floren, Die
+griechische Plastik 1 (1987)"
+"Liv. Andron. Od.":["Livius Andronicus, Odyssia"
+"Livy, Epit.":["Livy, Epitomae"
+"Per.":["Periochae"
+"Lobeck, Aglaoph.":["C. A. Lobeck, Aglaophamus (1829)"
+"Loeb":["Loeb Classical Library"
+"[Longinus], Subl.":["[Longinus], Περὶ ὕψους"
+"LP":["E. Lobel and D. L. Page, Poetarum Lesbiorum Fragmenta (1955)"
+"LSAG":["See Jeffery, LSAG"
+"LSAM":["F. Sokolowski, Lois sacrées de l'Asie Mineure (1955)"
+"LSCG":["F. Sokolowski, Lois sacrées des cités grecques (1969)"
+"LSJ":["Liddell and Scott, Greek-English Lexicon, 9th edn., rev. H. Stuart Jones (1925–
+40):[ Suppl. by E. A. Barber and others (1968)"
+"LSS":["F. Sokolowski, Lois sacrées des cités grecques:[ Supplément (1962)"
+"LTUR":["M. Steinby (ed.), Lexicon Topographicum Urbis Romae, 6 vols. (1993–2000)"
+"Luc.":["Lucan"
+"Alex.":["Alexander"
+"Anach.":["Anacharsis"
+"Cal.":["Calumniae non temere credendum"
+"Catapl.":["Cataplus"
+"Demon.":["Demonax"
+"De mort. Peregr.":["De morte Peregrini"
+"Dial. D.":["Dialogi deorum"
+"Dial. meret.":["Dialogi meretricii"
+"Dial. mort.":["Dialogi mortuorum"
+"Her.":["Herodotus"
+"Hermot.":["Hermotimus"
+"Hist. conscr.":["Quomodo historia conscribenda sit"
+"Ind.":["Adversus indoctum"
+"Iupp. trag.":["Iuppiter tragoedus"
+"Luct.":["De luctu"
+"Macr.":["Macrobii"
+"Nigr.":["Nigrinus"
+"Philops.":["Philopseudes"
+"Pseudol.":["Pseudologista"
+"Salt.":["De saltatione"
+"Somn.":["Somnium"
+"Symp.":["Symposium"
+"Syr. D.":["De Syria dea"
+"Trag.":["Tragoedopodagra"
+"Ver. hist.":["Verae historiae, 1, 2"
+"Vit. auct.":["Vitarum auctio"
+"Lucil.":["Lucilius"
+"Lucr.":["Lucretius"
+"Lugli, Fontes":["G. Lugli, Fontes ad Topographiam Veteris Urbis Romanae Pertinentes, vols.
+1–4 (1953–62) 8, 6/2 (1969)"
+"LXX":["Septuagint"
+"Lycoph.":["Lycophron"
+"Alex.":["Alexandra"
+"Lycurg.":["Lycurgus"
+"Leoc.":["Against Leocrates"
+"Lydus, Mens.":["Lydus, De mensibus"
+"Mag.":["De magistratibus"
+"Ost.":["De ostentis"
+"Lys.":["Lysias"
+"MAAR":["Memoirs of the American Academy in Rome"
+"Macrob.":["Macrobius"
+"In Somn.":["Commentarius ex Cicerone in Somnium Scipionis"
+"Sat.":["Saturnalia"
+"Magie, Rom. Rule Asia Min.":["D. Magie, Roman Rule in Asia Minor"
+"Malcovati, ORF":["H. Malcovati, Oratorum Romanorum Fragmenta (2nd edn. 1955:[ 4th edn.
+1976)"
+"MAMA":["Monumenta Asiae Minoris Antiquae (1928– )"
+"Manitius":["M. Manitius, Gesch. der lat. Lit. des Mittelalters (1911–23)"
+"Marcellin.":["Marcellinus"
+"Marm. Par.":["Marmor Parium (IG 12 (5), 444)"
+"Marquardt":["J. Marquardt"
+"Privatleben":["Privatleben der Römer, 2nd edn. besorgt von A. Mau, 2 vols. (1886). These
+together make up vol. 7 of Handbuch der römischen Altertümer, by J.
+Marquardt and T. Mommsen"
+"Staatsverw.":["Römische Staatsverwaltung, 2nd edn. (1881–5)"
+"Marshall, Asconius Comm.":["B. A. Marshall, A Historical Commentary on Asconius (1985)"
+"Mart.":["Martial"
+"Spect.":["Spectacula"
+"Mart. Cap.":["Martianus Capella"
+"Marx":["F. Marx, C. Lucilii Carminum Reliquiae (1904–5)"
+"Mattingly–Sydenham, RIC":["H. Mattingly, E. A. Sydenham, and others Roman Imperial Coinage (1923–67):[
+rev. edn. of vol. 1 only, C. H. V. Sutherland and R. A. G. Carson (1984)"
+"M. Aur. Med.":["Marcus Aurelius, Meditations"
+"Mazard":["J. Mazard, Corpus Nummorum Numidiae Mauretaniaeque (1955)"
+"Mazzarino, Gramm. Rom. Frag.":["A. Mazzarino, Grammaticae Romanae Fragmenta Aetatis Caesarianae, 2nd
+edn. (1955)"
+"MD":["Materiali e Discussioni"
+"MDAI":["Mitteilungen des deutschen archäologischen Instituts (A):[ Athenische Abteilung
+(1876– ) (B):[ Baghdadische Abteilung (I):[ Istanbulische Abteilung (K):[
+Kairoische Abteilung (R):[ Römische Abteilung (1886– )"
+"MÉFRA":["Mélanges d'archéologie et d'histoire de l'École française de Rome"
+"Meiggs, AE":["R. Meiggs, The Athenian Empire (1972)"
+"Meineke, FCG":["A. Meineke, Fragmenta Comicorum Graecorum (1839–57)"
+"Mél. Masp.":["Mélanges Maspéro (1934–7)"
+"Mel. Steph.":["Meleager, Stephanus"
+"Mem. dei Lincei":["Memorie:[ Atti della Academia Nazionale dei Lincei, Classe di scienze morali,
+storiche e filogiche"
+"Men.":["Menander"
+"Dys.":["Dyskolos"
+"Epit.":["Epitrepontes"
+"Her.":["Hērōs"
+"Pk.":["Perikeiromenē"
+"Sam.":["Samia"
+"Men. Rhet.":["Menander Rhetor"
+"Mette":["H. J. Mette, Urkunden dramatischer Aufführungen in Griechenland, Texte und
+Kommentare no. 8 (1977)"
+"Meyer, Forschungen":["Meyer (ed.), Forschungen zur alten Geschichte, 2 vols., (1892–9)"
+"MGH":["Monumenta Germaniae Historica, 15 vols. (1877–1919:[ repr. 1961)"
+"AA":["Auctores Antiquissimi"
+"Ep.":["Epistulae"
+"MGR":["Miscellanea greca e romana"
+"MH":["Museum Helveticum"
+"Michel":["C. Michel, Recueil d'inscriptions grecques (1900–27)"
+"Michell, Econom. Anc. Gr.":["H. Michell, The Economics of Ancient Greece, 2nd edn. (1957)"
+"MIFAO":["Mémoires de l'Institut français d'archéologie orientale"
+"Migne, PG":["Migne, Patrologiae Cursus, series Graeca"
+"PL":["Patrologiae Cursus, series Latina"
+"Milet.":["T. Wiegand (ed.), Milet:[ Ergebnisse der Ausgrabungen und Untersuchungen
+seit dem Jahre 1899 (1966– )"
+"Millar, ERW":["F. Millar, The Emperor in the Roman World (1977:[ 2nd edn. 1992)"
+"Min. Fel.":["Minucius Felix"
+"Oct.":["Octavius"
+"Mir. ausc.":["De mirabilibus auscultationibus (auctor ignotus)"
+"Mitteis, Chr.":["L. Mitteis and U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde
+(1912)"
+"ML":["R. Meiggs and D. Lewis, A Selection of Greek Historical Inscriptions to the
+End of the Fifth Century BC, rev. edn. (1988)"
+"MME":["W. MacDonald and G. Rapp, The Minnesota Messenia Expedition (1972)"
+"Mnemos.":["Mnemosyne (1852– )"
+"MNIR":["Mededelingen van het Nederlandsch historisch Institut te Rome"
+"Momigliano, Secondo contributo":["A. Momigliano, Secondo contributo alla storia degli studi classici (1960)"
+"Terzo contributo":["Terzo contributo alla storia degli studi classici (1966)"
+"Quarto contributo":["Quarto contributo alla storia degli studi classici (1969)"
+"Quinto contributo":["Quinto contributo alla storia degli studi classici (1975)"
+"Sesto contributo":["Sesto contributo alla storia degli studi classici (1980)"
+"Mommsen":["T. Mommsen"
+"Ges. Schr.":["Gesammelte Schriften, 8 vols. (1905–13)"
+"Röm. Forsch.":["Römische Forschungen, 2 vols. (1 in 2nd edn.) (1864–79)"
+"Röm. Staatsr.":["Römisches Staatsrecht, vols. 1 3, 2 3 (1887), (1888)"
+"Röm. Strafr.":["Römisches Strafrecht (1899):[ Stellenregister, ed. J. Malitz (1982)"
+"Mommsen–Marquardt, Manuel":["Manuel des antiquités romaines (1887–1907):[ a Fr. trans. of Mommsen's
+Römisches Staatsrecht"
+"Mon. Anc.":["Monumentum Ancyranum"
+"Mon. Ant.":["Monumenti Antichi pubblicati per cura della Reale Accademia dei Lincei"
+"Mon. Piot":["Monuments Piot"
+"Morel–Büchner, FPL":["Fragmenta Poetarum Latinorum epicorum et lyricorum praeter Ennium et
+Lucilium, 1st edn., ed. W. Morel (1927):[ 2nd edn., ed. C. Büchner (1982)"
+"Mosch. Ep. Bion.":["Moschus, Epitaphios Bionis"
+"MRR":["see Broughton, MRR"
+"Münzer, Röm. Adelsparteien":["F. Münzer, Römische Adelsparteien und Adelsfamilien (1920)"
+"Musa Tragica":["B. Gauly, L. Käppel, and others (eds.), Musa Tragica:[ Die griechische
+Tragödie von Thespis bis Ezechiel (1991)"
+"Mus. Belge":["Musée Belge"
+"Muson.":["Musonius Rufus"
+"MW":["M. McCrum and A. G. Woodhead, Select Documents of the Principates of the
+Flavian Emperors (1961)"
+"M–W":["R. Merkelbach and M. L. West, Fragmenta Hesiodea (1967)"
+"MycPot":["A. Furumark, Mycenaean Pottery (1941)"
+"Myth. Vat.":["Mythographi Vaticani, ed. Bode (1834)"
+"Nachr. Ges. d. Wiss. Gött.":["see Gött. Nachr."
+"Naev. fr. com.":["Naevius, fragmenta comoediarum"
+"Nash, Pict. Dict. Rome":["E. Nash, Pictorial Dictionary of Ancient Rome (1961–2:[ 2nd edn. 1989)"
+"Nauck":["see TGF"
+"Nauck/Snell":["see TGF"
+"Nemes.":["Nemesianus"
+"Cyn.":["Cynegetica"
+"Ecl.":["Eclogae"
+"Nep.":["Nepos"
+"Att.":["Atticus"
+"Epam.":["Epaminondas"
+"Milt.":["Miltiades"
+"Timoth.":["Timotheus"
+"[Neue] Jahrb.":["(1) [Neue] Jahrbücher für Philologie und Pädagogik (1826–97) (2) Neue
+Jahrbücher für d. klassische Altertum (1898–1925) (3) Neue Jahrbücher für
+Wissenschaft und Jugendbildung, (1925–36) ((1), (2), and (3) form a
+continuous series)"
+"New Pauly":["See BNP"
+"New PEPP":["A. Preminger and T. V. F. Brogan (eds.), The New Princeton Encyclopedia of
+Poetry and Poetics (1993)"
+"Nic.":["Nicander"
+"Alex.":["Alexipharmaca"
+"Ther.":["Theriaca"
+"Nic. Dam.":["Nicolaus Damascenus"
+"Nicolet, OE":["C. Nicolet, L'Ordre équestre (1974)"
+"Nicom. Ench.":["Nicomachus, Manual of Harmonics"
+"Nilsson, Feste":["M. P. Nilsson, Griechische Feste v. religiöser Bedeutung m. Ausschluss d.
+attischen (1906)"
+"GGR":["Geschichte der griechischen Religion, vol. 1 2 (1955), 1 3 (1967), 2 2 (1961)"
+"MMR":["The Minoan-Mycenaean Religion and its Survival in Greek Religion, 2nd
+edn. (1950)"
+"Non.":["Nonius"
+"Nonnus, Dion.":["Nonnus, Dionysiaca"
+"Norden, Ant. Kunstpr.":["E. Norden, Die antike Kunstprosa, vom 6. Jahrh. v. Chr. bis in d. Zeit d.
+Renaissance (1898, repr. with supplements 1909:[ 3rd edn. 1915)"
+"Not. Dign. [occ.] [or.]":["Notitia dignitatum in partibus occidentis/orientis"
+"Not. Scav.":["Notizie degli scavi di antichità (1876–":[:[")":[
+"Nov.":["Novellae"
+"Nov. Theod.":["Novellae Theodosianae"
+"NP. Ant":["Brill’s New Pauly vols 1–15 (Antiquity)"
+"NPNF":["Nicene and Post-Nicene Fathers"
+"Num. Chron.":["Numismatic Chronicle (1861–":[")":[:[
+"Numen.":["Numenius"
+"NZ":["Numismatische Zeitschrift"
+"OCD 1":["M. Cary and others (eds.), The Oxford Classical Dictionary, 1st edn. (1949)"
+"OCD 2":["N. G. L. Hammond and H. H. Scullard (eds.), The Oxford Classical Dictionary,
+2nd edn. (1970)"
+"OCT":["Oxford Classical Texts"
+"Od.":["Odyssey"
+"ODB":["Oxford Dictionary of Byzantium (1991)"
+"ODCC":["Oxford Dictionary of the Christian Church, ed. F. L. Cross and E. Livingstone,
+2nd edn. (1974)"
+"Ogden, Companion":["D. Ogden (ed.), A Companion to Greek Religion (2007)"
+"OGI":["Orientis Graeci Inscriptiones Selectae"
+"Ogilvie, Comm. Livy 1–5":["R. M. Ogilvie, Commentary on Livy, Books 1–5 (1965)"
+"OJA":["Oxford Journal of Archaeology"
+"‘Old Oligarch’":["see Xen. for Ath. Pol. attributed to Xenophon (see entry old oligarch)"
+"Oliver":["J. Oliver, Greek Constitutions of Early Roman Emperors (1989)"
+"Olivieri, FCGM":["A. Olivieri, Frammenti della commedia greca e del mimo nella Sicilia e nella
+Magna Grecia, 2nd edn. (1946–7)"
+"OMS":["see Robert, OMS"
+"Op. Arch.":["Opuscula Archaeologica (1935–52)"
+"Op. Ath.":["Opuscula Atheniensia (1953–":[")":[:[
+"Or.":["Oratio"
+"ORF and ORF 4":["see Malcolvati, ORF"
+"Origen, C. Cels.":["Origen, Contra Celsum"
+"Oros.":["Orosius"
+"Orph.":["Orphica"
+"frs.":["see Kern"
+"Lith.":["Lithica"
+"Ostwald, Popular Sovereignty":["M. Ostwald, From Popular Sovereignty to the Sovereignty of Law (1986)"
+"Ov.":["Ovid"
+"Am.":["Amores"
+"Ars am.":["Ars amatoria"
+"Epigr.":["Epigrammata"
+"Fast.":["Fasti"
+"Hal.":["Halieuticon liber"
+"Her.":["Heroides"
+"Ib.":["Ibis"
+"Medic.":["Medicamina faciei"
+"Met.":["Metamorphoses"
+"Pont.":["Epistulae ex Ponto"
+"Rem. am.":["Remedia amoris"
+"Tr.":["Tristia"
+"Overbeck":["J. Overbeck, Die antiken Schriftquellen zur Geschichte d. bildenden Künste bei
+den Griechen (1868)"
+"P&P":["Past and Present"
+"π":["περί"
+"PA":["J. Kirchner, Prosopographia Attica (1901–3)"
+"PACA":["Proceedings of the African Classical Associations"
+"ΠΑΕ":["Πρακτικὰά τῆς ἐν Ἀθήναις Ἀρχαιολογικῆς Ἑταιρείας"
+"Page, FGE":["D. L. Page, Further Greek Epigrams (1981)"
+"GLP":["Greek Literary Papyri (Loeb, 1942)"
+"PMG":["Poetae Melici Graeci (1962)"
+"SLG":["Supplementum lyricis graecis (1974)"
+"PAmh.":["Amherst Papyri (1900–1)"
+"Pan. Lat.":["XII Panegyrici Latini"
+"PAntin.":["The Antinoe Papyrus of Theocritus"
+"PAntinoop.":["Antinoopolis Papyri (1950–67)"
+"Parker, ARH":["R. Parker, Athenian Religion:[ A History (1996)"
+"Miasma":["Miasma:[ Pollution and Purification in Early Greek Religion (1983)"
+"Polytheism":["Polytheism and Society at Athens (2005)"
+"Parker, Roman Legions":["H. M. D. Parker, The Roman Legions, 2nd edn. (1958)"
+"Parod. Epic. Gr. Rel.":["Parodorum Epicorum Graecorum reliquiae, vol. 1 of Corpusculum Poesis
+Epicae Graecae Ludibundae, P. Brandt and C. Wachsmuth (1888)"
+"Paroemiogr.":["Corpus Paroemiographorum Graecorum, ed. E. L. Leutsch and P. G.
+Schneidewin (1839)"
+"Parth.":["Parthenius"
+"Amat. narr.":["Narrationum amatoriarum libellus (Ἐρωτικὰ παθήματα)"
+"Paul. Fest.":["see Festus, Gloss. Lat."
+"Paulus, Sent.":["Iulius Paulus, Sententiae"
+"Paus.":["Pausanias"
+"PB":["P. Poralla and A. S. Bradford, A Prosopography of Lacedaemonians from the
+Earliest Times to the Death of Alexander the Great, 2nd edn. (1985:[ Ger. orig.
+1913)"
+"PBA":["Proceedings of the British Academy"
+"PBerol.":["Berlin Papyri"
+"PBrem.":["Die Bremer Papyri, ed. U. Wilcken (1936:[ repr. 1970)"
+"PBrux.":["Papyri bruxellenses graeci 1:[ Papyrus du nome Prosopite, Nos. 1–21, by G.
+Nachtergael (1984):[ 2:[ No. 22, by M. Huys (1991). For PBrux. 7616 see C.
+Préaux and M. Hombert, Recherches sur le recensement dans l'Égypte romaine,
+Papyrologica Lugduno-Batava 5 (1952)"
+"PBSR":["Papers of the British School at Rome"
+"P. Cairo Zeno":["C. C. Edgar, Zenon Papyri, 4 vols. (1925–31)"
+"PCG":["R. Kassel and C. Austin, Poetae Comici Graeci (1983– )"
+"PCharite":["Das Aurelia Charite Archiv, ed. K. Worp (1980)"
+"PCIA":["Popoli e civiltà dell'Italia antica 4 vols. (1974–89)"
+"PColon.":["Kölner Papyri (1976– )"
+"PCPS":["Proceedings of the Cambridge Philological Society"
+"PDiog.":["Les Archives de Marcus Lucretius Diogenes et textes apparentés, ed. P.
+Schubert (1990)"
+"PDura":["The Excavations at Dura-Europos conducted by Yale University and the
+French Academy of Inscriptions and Letters Final Report 5 pt. 1:[ The
+Parchments and Papyri, ed. C. B.Welles and others (1959)"
+"Pearson, Lost Histories of Alexander":["L. Pearson, The Lost Histories of Alexander the Great (1960)"
+"PECS":["R. Stillwell and others, Princeton Encyclopedia of Classical Sites (1976)"
+"PElph.":["Elephantine Papyri (1907)"
+"Peripl. M. Rubr.":["Periplus Maris Rubri"
+"Pers.":["Persius"
+"Peter, HRRel.":["H. Peter, Historicorum Romanorum Reliquiae, vol. 1 2 (1914), 2 (1906)"
+"Petron.":["Petronius"
+"Sat.":["Satyrica"
+"Pf.":["R. Pfeiffer"
+"PF":["R. T. Hallock, Persepolis Fortification Tablets (1969)"
+"PFlor":["Papiri greco-egizii, papiri fiorentini, ed. D. Comparetti and G. Vitelli (1906–
+15:[ repr. 1962)"
+"PFouad":["P. Jouguet and others, Les Papyrus Fouad I (1939)"
+"PFT":["see PF"
+"Pfuhl":["E. Pfuhl, Malerei u. Zeichnung d. Griechen, 3 vols. (1923)"
+"PG":["see Migne"
+"PGen.":["Les Papyrus de Genève (1896–1990)"
+"PGhōran":["P. Jouguet, BCH 1906, 103 ff."
+"PGiess.":["Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu
+Giessen (1910–12)"
+"PGM":["K. Preisendanz and others (eds.), Papyri Graecae Magicae:[ Die griechischen"
+:["Zauberpapyri, 2 vols., 2nd edn. (1973–4)"
+"PHal.":["Dikaiomata, ed. by the Graeca Halensis (1913)"
+"Ph. Bel.":["Philon, Belopoeica"
+"PHeid.":["Veröffentlichungen aus der Heidelberger Papyrussammlung (1956–90)"
+"PHerc.":["Papyri Herculanenses:[ see Catalogo dei papyri ercolanesi (1979) and M.
+Capasso, Manuale di papirologia ercolanese (1991)"
+"Pherec.":["Pherecydes"
+"PHerm. Landl.":["Zwei Landlisten aus dem Hermupolites, ed. P. Sijpesteijn and K. Worp (1978)"
+"PHib.":["Hibeh Papyri (1906–55)"
+"Philo":["Philo Judaeus"
+"CW":["Edition of Philo Judaeus by L. Cohn and P. Wendland (1896–1916)"
+"In Flacc.":["In Flaccum"
+"Leg.":["Legatio ad Gaium"
+"Philoch.":["Philochorus"
+"Philol.":["Philologus"
+"Philol. Suppl.":["Philologus, Supplement"
+"Philostr.":["Philostratus"
+"Her.":["Heroicus"
+"Imag.":["Imagines"
+"V A":["Vita Apollonii"
+"V S":["Vitae sophistarum"
+"Phil. Unters.":["Philologische Untersuchungen"
+"Phil. Wochenschr.":["Philologische Wochenschrift"
+"Phld.":["Philodemus"
+"Phlegon, Mir.":["Phlegon, Miracula"
+"PHolm.":["Papyrus Graecus Holmiensis, ed. O. Lagercrantz (1913)"
+"Phot.":["Photius"
+"Bibl.":["Bibliotheca"
+"PIand.":["Papyri Iandanae (1912–38)"
+"Pickard-Cambridge–Webster, Dithyramb 2":["A. W. Pickard-Cambridge, Dithyramb, Tragedy and Comedy, 2nd edn. rev. T.
+B. L. Webster (1962)"
+"Pind.":["Pindar (ed. B. Snell and H. Maehler, 1987–8)"
+"Isthm.":["Isthmian Odes"
+"Nem.":["Nemean”"
+"Ol.":["Olympian”"
+"Pyth.":["Pythian”"
+"Pae.":["Paeanes"
+"Pindar's Poetry":["C. Morgan and S. Hornblower (eds.), Pindar's Poetry, Patrons and Festivals,
+from Archaic Greece to the Roman Empire (2007)"
+"PIR":["Prosopographia Imperii Romani Saeculi I, II, III, 1st edn. by E. Klebs and H.
+Dessau (1897–8):[ 2nd edn. by E. Groag, A. Stein, and others (1933– )"
+"P-K, GL":["A. Philippson and E. Kirsten, Die griechischen Landschaften 1–4 (1950–9)"
+"PL":["see Migne"
+"Pl.":["Plato"
+"Alc.":["Alcibiades"
+"Ap.":["Apologia"
+"[Ax.]":["Axiochus"
+"Chrm.":["Charmides"
+"Cra.":["Cratylus"
+"Cri.":["Crito"
+"Criti.":["Critias"
+"Epin.":["Epinomis"
+"Euthphr.":["Euthyphro"
+"Euthyd.":["Euthydemus"
+"Grg.":["Gorgias"
+"[Hipparch.]":["Hipparchus"
+"Hp. mai.":["Hippias maior"
+"Hp. mi.":["Hippias Minor"
+"La. or Lach.":["Laches"
+"Leg.":["Leges"
+"Menex.":["Menexenus"
+"Phd.":["Phaedo"
+"Phdr.":["Phaedrus"
+"Phlb.":["Philebus"
+"Plt.":["Politicus"
+"Prm.":["Parmenides"
+"Prt.":["Protagoras"
+"Resp.":["Respublica"
+"Symp.":["Symposium"
+"Soph.":["Sophista"
+"Tht.":["Theaetetus"
+"Ti.":["Timaeus"
+"Platner–Ashby":["S. B. Platner and T. Ashby, A Topographical Dictionary of Ancient Rome
+(1929)"
+"Plato Com.":["Plato Comicus"
+"Platon.":["Platonius"
+"Diff. com.":["De differentia comoediarum"
+"Plaut.":["Plautus"
+"Amph.":["Amphitruo"
+"Asin.":["Asinaria"
+"Bacch.":["Bacchides"
+"Capt.":["Captivi"
+"Cas.":["Casina"
+"Cist.":["Cistellaria"
+"Curc.":["Curculio"
+"Men.":["Menaechmi"
+"Merc.":["Mercator"
+"Mil.":["Miles gloriosus"
+"Mostell.":["Mostellaria"
+"Poen.":["Poenulus"
+"Pseud.":["Pseudolus"
+"Rud.":["Rudens"
+"Stich.":["Stichus"
+"Trin.":["Trinummus"
+"PLeid.":["Papyri Graeci Musei Antiquarii Lugduni-Batavi, ed. C. Leemans (1843–85)"
+"PLG":["T. Bergk, Poetae Lyrici Graeci (1882:[ repr. 1914–15)"
+"PLille":["Papyrus grecs (Institut papyrologique de l'Université de Lille, 1907–12)"
+"Plin.":["Pliny (the Elder)"
+"HN":["Naturalis historia"
+"Plin.":["Pliny (the Younger)"
+"Ep.":["Epistulae"
+"Pan.":["Panegyricus"
+"Tra.":["Epistulae ad Traianum"
+"PLips.":["Griechische Urkunden der Papyrussammlung zu Leipzig, ed. L. Mitteis (1906)"
+"PLLS":["Papers of the Leeds Latin Seminar"
+"PLM Vollmer/Morel":["Poetae Latini Minores ed. Vollmer, 1 (1909) emendavit Morel3 (1935)"
+"PLond. Lit.":["Catalogue of the Literary Papyri in the British Museum, ed. H. Milne (1927)"
+"PLondon":["Greek Papyri in the British Museum (1893– )"
+"Plotinus, Enn.":["Plotinus, Enneades"
+"PLRE":["Prosopography of the Later Roman Empire 1, ed. A. H. M. Jones and others
+(1970):[ 2 and 3, ed. J. R. Martindale (1980–92)"
+"PLund.":["Papyri Lundenses (1934/5–1946/7)"
+"Plut.":["Plutarch"
+"Mor.":["Moralia"
+"Adv. Col.":["Adversus Coloten"
+"Amat.":["Amatorius"
+"Am. narr.":["Amatoriae narrationes"
+"An seni":["An seni respublica gerenda sit"
+"Comm. not.":["De communibus notitiis adversus Stoicos"
+"Comp. Ar. et Men.":["Comparatio Aristophanis et Menandri"
+"Conv. sept. sap.":["Convivium septem sapientium"
+"De Alex. fort.":["De fortuna Alexandri"
+"De def. or.":["De defectu oraculorum"
+"De exil.":["De exilio"
+"De fac.":["De facie in orbe lunae"
+"De fort. Rom.":["De fortuna Romanorum"
+"De frat. amor.":["De fraterno amore"
+"De garr.":["De garrulitate"
+"De gen.":["De genio Socratis"
+"De glor. Ath.":["De gloria Atheniensium"
+"De Is. et Os.":["De Iside et Osiride"
+"De lat. viv.":["De latenter vivendo"
+"De mul. vir.":["De mulierum virtutibus"
+"[De mus]":["De musica"
+"De prof. virt.":["De profectu in virtute"
+"De Pyth. or.":["De Pythiae oraculis"
+"De sera":["De sera numinis vindicta"
+"De soll. an.":["De sollertia animalium"
+"De superst.":["De superstitione"
+"De tranq. anim.":["De tranquillitate animi"
+"Prae. ger. reip.":["Praecepta gerendae reipublicae"
+"Quaest. conv.":["Quaestiones convivales"
+"Quaest. Graec.":["”":["Graecae":[:[
+"Quaest. Plat.":["”":["Platonicae":[:[
+"Quaest. Rom.":["”":["Romanae":[:[
+"Quomodo adul.":["Quomodo adulescens poetas audire debeat"
+"Vit.":["Vitae Parallelae"
+"Aem.":["Aemilius Paulus"
+"Ages.":["Agesilaus"
+"Alc.":["Alcibiades"
+"Alex.":["Alexander"
+"Ant.":["Antonius"
+"Arat.":["Aratus"
+"Arist.":["Aristides"
+"Artax.":["Artaxerxes"
+"Brut.":["Brutus"
+"Caes.":["Caesar"
+"Cam.":["Camillus"
+"Cat. Mai., Min.":["Cato Maior, Minor"
+"C. Gracch.":["Gaius Gracchus"
+"Cic.":["Cicero"
+"Cim.":["Cimon"
+"Cleom.":["Cleomenes"
+"Crass.":["Crassus"
+"Dem.":["Demosthenes"
+"Demetr.":["Demetrius"
+"Eum.":["Eumenes"
+"Flam.":["Flamininus"
+"Galb.":["Galba"
+"Luc.":["Lucullus"
+"Lyc.":["Lycurgus"
+"Lys.":["Lysander"
+"Mar.":["Marius"
+"Marc.":["Marcellus"
+"Nic.":["Nicias"
+"Num.":["Numa"
+"Pel.":["Pelopidas"
+"Per.":["Pericles"
+"Phil.":["Philopoemen"
+"Phoc.":["Phocion"
+"Pomp.":["Pompeius"
+"Pyrrh.":["Pyrrhus"
+"Rom.":["Romulus"
+"Sert.":["Sertorius"
+"Sol.":["Solon"
+"Sull.":["Sulla"
+"Them.":["Themistocles"
+"Thes.":["Theseus"
+"Ti. Gracch.":["Tiberius Gracchus"
+"Tim.":["Timoleon"
+"[Plut.] Cons. ad Apoll.":["[Plutarch], Consolatio ad Apollonium"
+"Vit. Hom.":["Vita Homeri"
+"X orat.":["Vitae decem oratorum"
+"PMG":["see Page, PMG"
+"PMGF":["see Davies, PMGF"
+"PMich.":["Michigan Papyri (1931–":[")":[:[
+"PMilan.":["Papiri Milanesi (1928–67)"
+"PMil. Vogl.":["Papri della R. Universitὰ degli Studi di Milano, Milan"
+"PMonac.":["Byzantinische Papyri in der Papyrussammlung der K. Hof-und Staatsbibliothek
+zu München, 2nd edn. D. Hagedorn (1986)"
+"PO":["Patrologia Orientalis (1904– )"
+"Poet. Rom. Vet.":["see Diehl"
+"Pöhlmann and West, Documents":["E. Pöhlmann and M. L. West, Documents of Ancient Greek Music (2001)"
+"Poll.":["Pollux"
+"Onom.":["Onomasticon"
+"Polyaenus, Strat.":["Polyaenus, Strategemata"
+"Polyb.":["Polybius"
+"Pompon.":["Pomponius"
+"Porph.":["Porphyry"
+"Abst.":["De abstinentia"
+"De antr. nymph.":["De antro nympharum"
+"Plot.":["Vita Plotini"
+"POsl.":["Papyri Osloenses (1925–36)"
+"Pow.":["see Powell, Coll. Alex."
+"Powell and Barber, New Chapters":["J. U. Powell and E. A. Barber, New Chapters in the History of Greek Literature
+(1921):[ Second Series (1929):[ Third Series, J. U. Powell alone (1933)"
+"Powell, Coll. Alex.":["J. U. Powell, Collectanea Alexandrina (1925)"
+"POxy.":["Oxyrhynchus Papyri (1898– )"
+"PP":["La parola del passato (1946– )"
+"PPF":["H. Diels, Poetarum Philosophorum Graecorum Fragmenta (1901)"
+"praef.":["praefatio"
+"Pratin. Lyr.":["Pratinas, Fragmenta lyrica"
+"Preisendanz":["see PGM"
+"Preller–Robert":["L. Preller, Griechische Mythologie, 4th edn., rev. C. Robert (1894)"
+"Prisc. Inst.":["Priscian, Institutio de arte grammatica"
+"Pritchett, GSW":["W. K. Pritchett, The Greek State at War 5 vols. (1971–91)"
+"Proc. Brit. Acad. or PBA":["Proceedings of the British Academy (1903–":[:[")":[
+"Procl.":["Proclus"
+"Hypotyp.":["Hypotyposis"
+"In R.":["In Platonis Rempublicam commentarii"
+"In Ti.":["In Platonis Timaeum commentarii"
+"Procop.":["Procopius"
+"Aed.":["De aedificiis"
+"Goth.":["De bello Gothico"
+"Vand.":["De bello Vandalico"
+"Proc. Prehist. Soc.":["Proceedings of the Prehistoric Society"
+"Progr.":["Programm"
+"Prop.":["Propertius"
+"Prudent.":["Prudentius"
+"Cath.":["Cathemerina"
+"C. Symm.":["Contra Symmachum"
+"Perist.":["Peristephanon"
+"PRyl.":["Catalogue of the Greek Papyri in the John Rylands Library at Manchester
+(1911–52)"
+"PSAS":["Proceedings of the Society of Antiquaries, Scotland"
+"PSI":["Papiri Greci e Latini, Pubblicazioni della Società italiana per la ricerca dei
+papiri greci e latini in Egitto (1912– )"
+"PSorbonn.":["Papyrus de la Sorbonne 1, nos. 1- 68, ed. H. Cadell (1966)"
+"PStras.":["Griechische Papyrus der Kaiserlichen Universitäts- und Landesbibliothek zu
+Strassburg (1912– )"
+"P Teb.":["Tebtunis Papyri (1902–76)"
+"Ptol.":["Ptolemaeus mathematicus"
+"Alm.":["Almagest"
+"Geog.":["Geographia"
+"Harm.":["Harmonica"
+"Tetr.":["Tetrabiblos"
+"PVat. II":["Il Papiro Vaticano Greco II, ed. M. Norsa and G. Vitelli (1931)"
+"PVindob.":["Papyrus Vindobonensis"
+"PVS":["Proceedings of the Vergil Society"
+"PW":["see Pöhlmann and West"
+"PYale":["J. F. Oates, A. E. Samuel, C. B. Welles (eds.), Yale Papyri in the Beinecke Rare
+Book and Manuscript Library (1967)"
+"Quad. Ist. Top. Roma":["Quaderni dell'Istituto di Topografia antica della Università de Roma"
+"QAL":["Quaderni di archeologia della Libia"
+"Quint.":["Quintilian"
+"Ep. ad Tryph.":["Epistula ad Tryphonem (introductory to the following)"
+"Inst.":["Institutio oratoria"
+"Quint. Smyrn.":["Quintus Smyrnaeus"
+"RAC":["Reallexikon für Antike und Christentum, Stuttgart (1941–":[")":[:[
+"Radke, Götter":["G. Radke, Die Götter Altitaliens (1960:[ 2nd edn. 1979)"
+"Entwicklung":["Zur Entwicklung der Gottesvorstellung und der Gottesverehrung in Rom
+(1987)"
+"Radt":["see TrGF"
+"Rav. Cosm.":["Cosmographia Anonymi Ravennatis"
+"RC":["C. B. Welles, Royal Correspondence in the Hellenistic Period (1934)"
+"RCHM":["Royal Commission on Historic Monuments"
+"RD":["see RHDFÉ"
+"RDAC":["Report of the Department of Antiquities of Cyprus"
+"RDGE":["R. E. Sherk, Roman Documents from the Greek East (1969)"
+"RE":["A. Pauly, G. Wissowa, and W. Kroll, Real-Encyclopädie d. klassischen
+Altertumswissenschaft (1893– )"
+"Reallexikon der Assyriologie":["Reallexikon der Assyriologie (1932– )"
+"Rend. 1st. Lomb.":["Rendiconti d. R. Istituto Lombardo di scienze e lettere"
+"Rend. Linc.":["Rendiconti della reale accademia dei Lincei, 6th ser. (1892–1924):[ 7th ser.
+(1925– )"
+"Rend. Pont.":["Rendiconti della pontificia accademia romana di archeologia"
+"Rer. nat. scr. Graec. min.":["O. Keller, Rerum naturalium scriptores Graeci minores (1877)"
+"Rev. Arch.":["Revue archéologique"
+"Rev. Bibl.":["Revue biblique"
+"Rev. Ét. Anc.":["Revue des études anciennes"
+"Rev. Ét. Grec.":["Revue des études grecques"
+"Rev. Ét. Lat.":["Revue des études latines"
+"Rev. Hist.":["Revue historique"
+"Rev. Hist. Rel.":["Revue de l'histoire des religions"
+"Rev. Phil.":["Revue de philologie ns (1877– )"
+"RG":["see Mon. Anc."
+"RGVV":["Religionsgeschichtliche Versuche und Vorarbeiten, ed. A. Dieterich, R.
+Wünsch, L. Malten, O. Weinreich, L. Deubner (1903– )"
+"RHDFÉ":["Revue historique de droit français et étranger"
+"Rhet.":["see Spengel"
+"Rhet. Her.":["Rhetorica ad Herennium"
+"Rhet. Lat. Min.":["see Halm"
+"Rh. Mus.":["Rheinisches Museum für Philologie (1827–":["), NS (1842–":[")":[
+"Rhodes, CAAP":["P. J. Rhodes, A Commentary on the Aristotelian Athenaion Politeia (1981:[ new
+edn. 1993)"
+"Thuc. 2 comm.":["(ed.), Thucydides:[ History II (1988)"
+"RIB":["see Collingwood-Wright"
+"Ribbeck, CRF":["O. Ribbeck, Comicorum Romanorum Fragmenta"
+"TRF":["Tragicorum Romanorum Fragmenta [both in Scaenicae Romanorum Poesis
+Fragmenta 3, 1897–8] 2 (1962)"
+"RIC":["see Mattingly-Sydenham, RIC"
+"Riccobono, FIRA":["S. Riccobono, Fontes Iuris Romani AnteIustiniani (1941)"
+"Richardson, Topog. Dict. Ancient Rome":["L. Richardson, A New Topographical Dictionary of Ancient Rome (1992)"
+"RIDA":["Revue Internationale des Droits de l'Antiquité"
+"Riv. d. Arch. Crist.":["Rivista di archeologia cristiana"
+"Riv. Fil.":["Rivista di filologia"
+"Riv. ital. per le sc. giur.":["Rivista italiana per le scienze giuridiche"
+"RK":["see Wissowa"
+"RLAC":["see RAC"
+"RLÖ":["Der römische Limes in Österreich (1900–":[")":[:[
+"RN":["Revue numismatique"
+"RO":["P. J. Rhodes and R. Osborne, Greek Historical Inscriptions, 404–323 BC
+(2003:[ revised edn. 2007)"
+"Robert, OMS":["L. Robert, Opera Minora Selecta, 7 vols. (1969–90)"
+"Robin":["L. Robin, La Pensée grecque et l'origine de l'esprit scientifique, 2nd edn.
+(1932):[ Eng. trans. Greek Thought"
+"Rohde, Psyche":["E. Rohde, Psyche, trans. W. Hillis (1925)"
+"Griech. Roman":["Der griechische Roman u. s. Vorläufer, 3rd edn. (1914)"
+"röm.":["römisch"
+"Röm. Forsch.":["see Mommsen"
+"Röm. Gesch.":["see Beloch"
+"Röm. Mitt.":["see MDAI(R)"
+"ROR":["M. Beard, J. North, and S. Price, Religions of Rome, 2 vols. (1998)"
+"Roscher, Lex.":["W. H. Roscher, Ausführliches Lexikon d. griechischen u. römischen Mythologie
+(1884–1937)"
+"Rose, Handb. Gk. Myth.":["H. J. Rose, Handbook of Greek Mythology, 6th edn. (1958)"
+"Rostovtzeff":["M. Rostovtzeff"
+"HellenisticWorld":["The Social and Economic History of the Hellenistic World, 3 vols., 2nd edn.
+(1953)"
+"Roman Empire 2":["The Social and Economic History of the Roman Empire, 2nd edn. (1957)"
+"RPAA":["see Rend. Pont."
+"RRC":["M. H. Crawford, Roman Republican Coinage (1974)"
+"RSA":["Rivista storica dell'antichità"
+"Ruggiero, Diz. Epigr.":["E. de Ruggiero, Dizionario epigrafico di antichità romana (1886–"")"
+"Rumpf., Malerei u. Zeichn.":["A. Rumpf, Malerei und Zeichnung (1953)"
+"Rut. Namat.":["Rutilius Namatianus, De reditu"
+"RVV":["Religionsgeschichtliche Versuche und Vorarbeiten"
+"Sachs-Hunger":["A. Sachs and H. Hunger, Astronomical Diaries and Related Texts from
+Babylonia 2 (1989)"
+"Sall.":["Sallust"
+"[Ad Caes. sen.]":["Epistulae ad Caesarem senem"
+"Cat.":["Bellum Catilinae or De Catilinae coniuratione"
+"Hist.":["Historiae"
+"Iug.":["Bellum Iugurthinum"
+"Satyr.":["Satyrus Historicus"
+"Vit. Eur.":["Vita Euripidis"
+"SB":["F. Preisigke and others, Sammelbuch griechischen Urkunden aus Ägypten
+(1915– )"
+"SC":["Sources chrétiennes"
+"SC":["Senatus consultum"
+"SCE":["Swedish Cyprus Expedition (1934–72)"
+"Schachter, Boiotia":["A. Schachter, Cults of Boiotia (1981– )"
+"Schanz–Hosius":["M. Schanz, Geschichte d. römischen Literatur, rev. 1 4 (1927) and 2 4 (1935) by
+C. Hosius:[ 3 3 (1922), Hosius and Krüger:[ 4/1 2 (1914) and 4/2 (1920), Schanz,
+Hosius, and Krüger:[ retitled Handbuch der lateinischen Literatur der Antike
+from 1989 (see HLL)"
+"Schmid–Stählin":["W. Schmid and O. Stählin, Geschichte d. griechischen Literatur, vol. 1/1
+(1929), 1/2 (1934), 1/3 (1940), 1/4 (1946), 1/5 (1948). See also Christ-Schmid-
+Stählin"
+"Schmitt, SdA":["H. H. Schmitt (ed.), Die Staatsverträge des Altertums 3:[ Die Verträge der
+griechisch-römischen Welt von 338 bis 200 v. Chr. (1969)"
+"schol.":["scholiast or scholia"
+"Schol. Bern.":["Scholia Bernensia ad Vergilii bucolica et georgica, ed. Hagen (1867)"
+"Schol. Bob.":["Scholia Bobiensia"
+"Schol. Cruq.":["Scholia Cruquiana"
+"Schol. Dan.":["see Serv. Dan."
+"Schol. Flor. Callim.":["Scholia Florentina in Callimachum"
+"Schroeder, Nov. Com. Fragm.":["O. Schroeder, Novae Comoediae fragmenta in papyris reperta exceptis
+Menandreis (1915)"
+"Schürer, History":["F. Schürer, History of the Jewish People in the Age of Jesus Christ, rev. and ed.
+G. Vermes, F. Millar, and M. Goodman (1973–87)"
+"SCI":["Scripta Classica Israelica"
+"Scol. Anon.":["Scolia Anonyma in Diehl's Anth. Lyr. Graec. 2, pp. 181–92"
+"Scol. Att.":["Scolia Attica in Diehl's Anth. Lyr. Graec. 2, pp. 181–9"
+"Scullard, Rom. Pol.":["H. H. Scullard, Roman Politics 220–150 bc (1951:[ 2nd edn. 1973)"
+"Etr. Cities":["The Etruscan Cities and Rome (1967)"
+"Sc. J. Theol.":["see Stud. Theol."
+"Scymn.":["Scymnus"
+"SdA":["Die Staatsverträge des Altertums 2 2:[ Die Verträge der griechisch-römischen
+Welt von 700 bis 338 v. Chr., ed. H. Bengtson (1975):[ 3:[ Die Verträge der
+griechisch-römischen Welt von 338 bis 200 v. Chr., ed. H. H. Schmidt (1969)"
+"§":["section"
+"SEG":["Supplementum epigraphicum Graecum (1923–":[")":[:[
+"Semon.":["Semonides"
+"Sen.":["Seneca (the Elder)"
+"Con. ex.":["Controversiarum excerpta"
+"Controv.":["Controversiae"
+"Suas.":["Suasoriae"
+"Sen.":["Seneca (the Younger)"
+"Apocol.":["Apocolocyntosis"
+"Ben.":["De beneficiis"
+"Clem.":["De clementia"
+"Constant.":["De constantia sapientis"
+"Dial.":["Dialogi"
+"Ep.":["Epistulae"
+"Epigr.":["Epigrammata super exilio"
+"Helv.":["Ad Helviam"
+"Med.":["Medea"
+"Prov.":["De providentia"
+"QNat.":["Quaestiones naturales"
+"Tranq.":["De tranquillitate animi"
+"Serv.":["Servius"
+"Praef.":["Praefatio"
+"Serv. Dan.":["Scholia Danielis (Pierre Daniel, first publisher in 1600 of supplements to
+Servius' commentary on Virgil)"
+"Sext. Emp.":["Sextus Empiricus"
+"Math.":["Adversus mathematicos"
+"Pyr.":["Πυρρώνειοι ὑποτυπώσεις"
+"SHA":["Scriptores Historiae Augustae"
+"Ael.":["Aelius"
+"Alex. Sev.":["Alexander Severus"
+"Ant. Pius":["Antoninus Pius"
+"Aurel.":["Aurelian"
+"Avid. Cass.":["Avidius Cassius"
+"Clod.":["Clodius"
+"Comm.":["Commodus"
+"Did. Iul.":["Didius Iulianus"
+"Hadr.":["Hadrian"
+"Heliogab.":["Heliogabalus"
+"M. Ant.":["Marcus Aurelius Antoninus (Caracalla)"
+"Marc.":["Marcus"
+"Max.":["Maximinus"
+"Pert.":["Pertinax"
+"Pesc. Nig.":["Pescennius Niger"
+"Prob.":["Probus"
+"Sev.":["Severus"
+"Tyr. Trig.":["Tyranni Triginta"
+"Verus":["Lucius Verus"
+"Shackleton Bailey, Anth. Lat.":["D. R. Shackleton Bailey, Anthologia Latina 1:[ Carmina in codicibus scripta
+(1982)"
+"CLA":["D. R. Shackleton Bailey (ed.), Cicero's Letters to Atticus, 7 vols. (1965–70)"
+"Sherk, Augustus":["R. E. Sherk, Rome and the Greek East to the Death of Augustus, Translated
+Documents of Greece and Rome 4 (1984)"
+"Sherk, Hadrian":["The Roman Empire:[ Augustus to Hadrian, Translated Documents of Greece
+and Rome 6 (1988)"
+"Sid. Apoll.":["Sidonius Apollinaris"
+"Carm.":["Carmina"
+"Epist.":["Epistulae"
+"SIFC":["see Stud. Ital."
+"SIG":["see Syll. 3"
+"Sil.":["Silius Italicus"
+"Pun.":["Punica"
+"Simon.":["Simonides"
+"Simpl.":["Simplicius"
+"in Cael.":["in Aristotelis de Caelo Commentarii"
+"in Phys.":["in Aristotelis de Physica Commentarii"
+"Sitz. followed by name of Academy or Society":["Sitzungsberichte"
+"Sitz. Kgl. pr. Ak. Wiss.":["Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu
+Berlin (1882–1918)"
+"Sitz. Wien":["Sitzungsberichte der Akad. der Wissenschaften in Wien"
+"SLG":["see Page"
+"Smallwood, Docs.... Nerva":["E. M. Smallwood, Documents illustrating the Principates of Nerva, Trajan and
+Hadrian (1966)"
+"Docs.... Gaius":["Documents illustrating the Principates of Gaius, Claudius and Nero (1967)"
+"SMSR":["Studi e materiali di storia delle religioni"
+"Snell–Maehler":["see Bacchyl. and Pind."
+"Snell/Mannicht/Radt":["see TrGF"
+"SNG":["Sylloge Numorum [sic] Graecorum"
+"SÖAW":["Sitzungsberichte. Österreichische Akademie der Wissenschaften in Wien, phil.-
+hist. Kl. (1848– )"
+"Socrates, Hist. eccl.":["Socrates, Historia ecclesiastica"
+"Solin.":["Solinus"
+"Soph.":["Sophocles"
+"Aj.":["Ajax"
+"Ant.":["Antigone"
+"El.":["Electra"
+"OC":["Oedipus Coloneus"
+"OT":["Oedipus Tyrannus"
+"Phil.":["Philoctetes"
+"Trach.":["Trachiniae"
+"Sor. Gyn.":["Soranus, Gynaeceia"
+"Sozom.":["Sozomen"
+"Hist. eccl.":["Historia ecclesiastica"
+"SPCK":["Society for Promoting Christian Knowledge"
+"Spengel–Hammer":["C. Hammer, Rhetores graeci ex recognitione Leonardi Spengel (1894):[ 2nd
+edn. of vol. 1/2 of Spengel, Rhet."
+"Spengel, Rhet.":["L. Spengel, Rhetores Graeci, 3 vols.:[ 1/1 (1885), 2 (1854), 3 (1856)"
+"SSR":["see SMSR"
+"Stadiasmus = Periplus":["Stadiasmus Maris Magni (in GGM 1. 427)"
+"Stat.":["Statius"
+"Achil.":["Achilleis"
+"Silv.":["Silvae"
+"Theb.":["Thebais"
+"Steinby, Lexicon":["see LTUR"
+"Steph. Byz.":["Stephanus Byzantius or Byzantinus, Ethnika"
+"StIr":["Studia Iranica"
+"Stith Thompson":["Stith Thompson, Motif-Index of Folk-Literature, 6 vols. in Indiana University
+Studies, 96–7, 100–1, 105–6, 108, 110-12:[ also published as FF
+Communication 106–9, 116- 17 (1932–6)"
+"Stob.":["Stobaeus"
+"Ecl.":["Ἐκλογαί"
+"Flor.":["Ἀνθολόγιον"
+"StPhoen":["Collection Studia Phoenicia"
+"Strack, Reichsprägung":["P. L. Strack, Untersuchungen zur römischen Reichsprägung des zweiten
+Jahrhunderts (1931)"
+"Stud. Doc. Hist. Iur.":["Studia et Documenta Historiae et Iuris"
+"Stud. Etr.":["Studi Etruschi"
+"Stud. Gesch. Kult. Alt.":["Studien zur Geschichte und Kultur des Altertums"
+"Stud. Ital.":["Studi italiani di filologia classica"
+"Stud. Theol.":["Studia Theologica"
+"Studi stor.":["Studi storici per l'antichità classica"
+"Suda":["Greek Lexicon formerly known as Suidas"
+"Suet.":["Suetonius"
+"Aug.":["Divus Augustus"
+"Calig.":["Gaius Caligula"
+"Claud.":["Divus Claudius"
+"Dom.":["Domitianus"
+"Galb.":["Galba"
+"Gram. et rhet.":["De grammaticis et rhetoribus"
+"Iul.":["Divus Iulius"
+"Ner.":["Nero"
+"Poet.":["De Poetis"
+"Rel. Reiff.":["Reliquiae, ed. Reifferscheid"
+"Tib.":["Tiberius"
+"Tit.":["Divus Titus"
+"Vesp.":["Divus Vespasianus"
+"Vit.":["Vitellius"
+"Vita Hor.":["Vita Horatii"
+"Vita Luc.":["Vita Lucani"
+"Sumner, Orators":["G. V. Sumner, The Orators in Cicero's Brutus (1973)"
+"Supp. Aesch.":["H. J. Mette, Supplementum Aeschyleum (1939)"
+"Supp. Com.":["see Demiańczuk"
+"Suppl. Hell.":["H. Lloyd-Jones and P. Parsons (eds.), Supplementum Hellenisticum, Texte und
+Kommentare no. 11 (1983)"
+"Suppl. Mag.":["R. W. Daniel and F. Maltomini (eds.), Supplementum Magicum, Papyrologica
+Coloniensia 16/1–2, 2 vols. (1989–91)"
+"Susemihl, Gesch. gr. Lit. Alex.":["F. Susemihl, Geschichte d. griechischen Literatur in d. Alexandriner-Zeit
+(1891–2:[ repr. 1965)"
+"SVF":["H. von Arnim, Stoicorum Veterum Fragmenta (1903– )"
+"Sydenham, CRR":["E. A. Sydenham, The Coinage of the Roman Republic (1952)"
+"Syll. 3":["W. Dittenberger, Sylloge Inscriptionum Graecarum, 3rd edn. (1915–24)"
+"Syll. Graec.":["see Corp. poes. ep. Graec. lud."
+"Symb.":["Symbolum"
+"Symb. Osl.":["Symbolae Osloenses"
+"Symb. Philol. Danielsson":["Symbolae Philologicae O. A. Danielsson octogenario dicatae (1932)"
+"Syme":["R. Syme"
+"AA":["The Augustan Aristocracy (1986)"
+"Rom. Rev.":["The Roman Revolution (1939)"
+"RP":["Roman Papers, 7 vols. (1979–91)"
+"RR":["see Syme, Rom. Rev."
+"Tacitus":["Tacitus, 2 vols. (1958)"
+"Symm.":["Symmachus"
+"Ep.":["Epistulae"
+"Relat.":["Relationes"
+"Tab. Agn.":["Tabula Agnoniensis"
+"TAPhS":["Transactions of the American Philosophical Society"
+"Tac.":["Tacitus"
+"Agr.":["Agricola"
+"Ann.":["Annales"
+"Dial.":["Dialogus de oratoribus"
+"Germ.":["Germania"
+"Hist.":["Historiae"
+"TAM":["E. Kalinka and others, Tituli Asiae Minoris (1901–":[")":[:[
+"TAPA":["Transactions of the American Philological Association"
+"Tarn, Alexander":["W. W. Tarn, Alexander the Great (1948:[ repr. 1979)"
+"Tatianus, Ad Gr.":["Tatianus, Oratio ad Graecos"
+"Taylor, Voting Districts":["L. R. Taylor, The Voting Districts of the Roman Republic (1960)"
+"Ter.":["Terence"
+"Ad.":["Adelphoe"
+"An.":["Andria"
+"Eun.":["Eunuchus"
+"Haut.":["H(e)autontimorumenos"
+"Hec.":["Hecyra"
+"Phorm.":["Phormio"
+"Tert.":["Tertullian"
+"Ad nat.":["Ad nationes"
+"Adv. Valent.":["Adversus Valentinianos"
+"Apol.":["Apologeticus"
+"De anim.":["De testimonio animae"
+"De bapt.":["De baptismo"
+"De monog.":["De monogamia"
+"De praescr. haeret.":["De praescriptione haereticorum"
+"De spect.":["De spectaculis"
+"Teubner":["Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana (1849–":[:[")":[
+"Teuffel–Kroll":["W. S. Teuffel, Geschichte der römischen Literatur6, eds. W. Kroll and F.
+Skutsch (1910–26, vol. 2 7th edn. 1920)"
+"Texts and Transmission":["L. Reynolds (ed.), Texts and Transmission:[ A Survey of the Latin Classics
+(1983)"
+"TGF":["A. Nauck, Tragicorum Graecorum Fragmenta, 2nd edn. (1889):[ Suppl. by B.
+Snell (1964)"
+"Them. Or.":["Themistius, Orationes"
+"Theoc.":["Theocritus"
+"Epigr.":["Epigrammata"
+"Id.":["Idylls"
+"Theoph. Ad Autol.":["Theophilus, Ad Autolycum"
+"Theophr.":["Theophrastus"
+"Caus. pl.":["De causis plantarum"
+"Char.":["Characteres"
+"Hist. pl.":["Historia plantarum"
+"Phys. op.":["Physicorum opiniones"
+"Sens.":["De sensibus"
+"Theopomp.":["Theopompus Historicus"
+"ThesCRA":["Thesaurus Cultus et Rituum Antiquorum, I–V + index vol. (2004–2006)"
+"Thgn.":["Theognis"
+"Thomson, Hist. Anc. Geog.":["J. O. Thomson, A History of Ancient Geography (1948)"
+"Thuc.":["Thucydides"
+"Tib.":["Tibullus"
+"Timoth.":["Timotheus"
+"Pers.":["Persae"
+"TIR":["Tabula Imperii Romani"
+"TLG":["Thesaurus Linguae Graecae"
+"TLL":["Thesaurus Linguae Latinae (1900–":[")":[:[
+"Tod":["M. N. Tod, Greek Historical Inscriptions vol. 1 2 (1946), 2 (1948)"
+"Trag. Adesp.":["Tragica Adespota in Nauck's Tragicorum Graecorum Fragmenta (TrGF), pp.
+837- 958"
+"TRF":["see Ribbeck"
+"TrGF":["B. Snell, R. Kannicht, S. Radt (eds.) Tragicorum Graecorum Fragmenta, 6
+vols. (1971–2004), vol. 1 2 (1986)"
+"trib.":["tribunus"
+"trib. pot.":["tribunicia potestas"
+"Tyrrell and Purser":["R. Y. Tyrrell and L. C. Purser (eds.), The Correspondence of M. Tullius Cicero,
+7 vols. (1886–1904 and later edns.)"
+"Tzetz.":["Tzetzes"
+"Chil.":["Historiarum variarum Chiliades"
+"Ueberweg–Flashar":["F. Ueberweg, Grundriss der Geschichte der Philosophie, rev. edn.:[ vol. 3,
+Altere Akademie, Aristoteles-Peripatos, ed. H. Flashar (1983):[ vol. 4, Die
+hellenistische Philosophie, ed. H. Flashar (1994)"
+"Ueberweg–Praechter, Grundriss":["F. Ueberweg, Grundriss der Geschichte der Philosophie, pt. 1:[ Das Altertum:[
+12th edn. by K. Praechter (1926)"
+"Ulp.":["Ulpianus"
+"UPZ":["U. Wilcken, Urkunden der Ptolemäerzeit 1 (1922–7), 2 (1957)"
+"Val. Max.":["Valerius Maximus"
+"Varro, Ling.":["Varro, De lingua Latina"
+"Rust.":["De re rustica"
+"Sat. Men.":["Saturae Menippeae"
+"Vatin.":["Vatinius"
+"VCH":["Victoria County History"
+"Veg. Mil.":["Vegetius, De re militari"
+"Vell. Pat.":["Velleius Paterculus"
+"Ventris–Chadwick, Docs.":["M. Ventris and J. Chadwick, Documents in Mycenaean Greece, 2nd edn.
+(1973)"
+"Verg.":["Virgil"
+"Aen.":["Aeneid"
+"Catal.":["Catalepton"
+"Ecl.":["Eclogues"
+"G.":["Georgics"
+"Vett. Val.":["Vettius Valens"
+"Vig. Chr.":["Vigiliae Christianae"
+"Viscogliosi, Lexicon":["A. Visciogliosi, Lexicon topographicum urbis Romae"
+"Vit. Aesch.":["Vita Aeschyli (OCT of Aeschylus)"
+"Vit. Eurip.":["Vita Euripidis (OCT of Euripides)"
+"Vitr.":["Vitruvius"
+"De arch.":["De architectura"
+"Vopiscus, Cyn.":["Vopiscus, Cynegetica"
+"Vorsokr.":["see DK"
+"W":["see West, GLP and IE 2"
+"Walbank, HCP":["F. W. Walbank, A Historical Commentary on Polybius, 3 vols. (1957–79)"
+"Philip V":["Philip V of Macedon (1940)"
+"Walz":["C. Walz, Rhetores Graeci, 9 vols. (1832–6)"
+"Warde Fowler, Rel. Exper.":["W. Warde Fowler, The Religious Experience of the Roman People (1911)"
+"Warmington, Indian Commerce":["E. H. Warmington, The Commerce between the Roman Empire and India
+(1928)"
+"Watson 1974":["A. Watson, Law Making in the Later Republic (1974)"
+"WdF":["Wege der Forschung"
+"Webster, Later Greek Comedy":["T. B. L. Webster, Studies in Later Greek Comedy (1953:[ 2nd edn. 1970)"
+"Wegner, Herrscherbild. (1939)":["M. Wegner, Die Herrscherbildnisse in antoninischer Zeit (1939)"
+"Herrscherbild (1956)":["(ed.) Das römische Herrscherbild (1956– )"
+"Westd. Zeit.":["Westdeutsche Zeitschrift für Geschichte und Kunst"
+"West, GEF":["M. L. West (ed.), Greek Epic Fragments (Loeb, 2003)"
+"West, GLP":["M. L. West, Greek Lyric Poetry (1993)"
+"GM":["Greek Metre (1982)"
+"IE 2":["Iambi et Elegi, 2nd edn. (1989–92)"
+"Wieacker, RRG":["F. Wieacker, Römische Rechtsgeschichte 1–2 (1988–":[")":[:[
+"Wien. Stud.":["Wiener Studien"
+"Wilamowitz":["U. von Wilamowitz-Moellendorff"
+"Hell. Dicht.":["Hellenistische Dichtung in der Zeit des Kallimachos (1924)"
+"Wilcken, Chr.":["see Mitteis, Chr."
+"Wilhelm, Urkunden":["A. Wilhelm, Urkunden dramatischer Aufführungen in Athen (1906)"
+"Winter, KB":["F. Winter, Kunstgeschichte in Bildern (1935 ff.)"
+"Wissowa, RK":["G. Wissowa, Religion und Kultus d. Römer, 2nd edn. (1912)"
+"Ges. Abh.":["Gesammelte Abhandlungen zur römischen Religions- und Stadtgeschichte
+(1904)"
+"WJA":["Würzburger Jahrbücher für die Altertumswissenschaft, ns (1975–":[:[")":[
+"Xen.":["Xenophon"
+"Ages.":["Agesilaus"
+"An.":["Anabasis"
+"Ap.":["Apologia Socratis"
+"[Ath. pol.]":["[Respublica Atheniensium:[ see entry old oligarch]"
+"Cyn.":["Cynegeticus"
+"Cyr.":["Cyropaedia"
+"Eq.":["De equitandi ratione"
+"Eq. mag.":["De equitum magistro"
+"Hell.":["Hellenica"
+"Hier.":["Hiero"
+"Lac.":["Respublica Lacedaemoniorum"
+"Mem.":["Memorabilia"
+"Oec.":["Oeconomicus"
+"Symp.":["Symposium"
+"Vect.":["De vectigalibus"
+"Xen Ephes":["Xenophon of Ephesus (see Xenophon (2))"
+"XPf":["Inscription of Xerxes I at Persepolis (so-called ‘Harem Inscription’)"
+"XPh":["Inscription of Xerxes I at Persepolis (so-called ‘Daiva Inscription’)"
+"YClS":["Yale Classical Studies"
+"ZÄS":["Zeitschrift für ägyptische Sprache und Altertumskunde"
+"ZDPV":["Zeitschrift des deutschen Palästina-Vereins"
+"Zeller, Phil. d. Gr.":["E. Zeller, Die Philosophie d. Griechen, 6th edn. (1920)"
+"Zeller, Gesch. d. gr. Phil.":["Grundriss d. Geschichte d. griechischen Philosophie, 13th edn. (1928)"
+"Plato, etc.":["Plato and the Older Academy, Eng. trans. (1888)"
+"Zen.":["Zenobius"
+"Z. für die öst. Gym.":["Zeitschrift für die österreichischen Gymnasien"
+"Ziolkowski, Temples":["A. Ziolkowski, The Temples of Mid-Republican Rome and their Historical
+Context (1993)"
+"Zonar.":["Zonaras"
+"Zos.":["Zosimus"
+"ZPE":["Zeitschrift für Papyrologie und Epigraphik"
+"ZRG":["Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romanistische Abteilung"
+"ZRGG":["Zeitschrift für Religions- und Geistesgeschichte"
+"ZSS":["Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romanistische Abteilung"
