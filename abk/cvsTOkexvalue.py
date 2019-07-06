@@ -25,11 +25,15 @@ import json, codecs
 
 #TLL,PAN,Ruecker
 #INNAMEFILE = "index_tll_final.csv"
-#OUTNAMEFILE = "TLLabk2.txt"
+#OUTNAMEFILE = "TLLabk3.txt"
+
+#greek short
+#INNAMEFILE = "Autoren_Griechisch_Auswahl08092017.csv"
+#OUTNAMEFILE = "grRueck2.txt"
 
 #DGE
-INNAMEFILE = "dge.csv"
-OUTNAMEFILE = "dge.txt"
+#INNAMEFILE = "dge.csv"
+#OUTNAMEFILE = "dge.txt"
 
 #OCD
 #INNAMEFILE = "OCD_ABBREVIATIONS.csv"
@@ -67,10 +71,14 @@ for l in range( len( lines ) ):
         
         if( kurz in keyValue ):
             #append
-            keyValue[ kurz ].append( [ lang, wkwl, metadata ] )
+            add = 1;
+            while( kurz+" $"+str(add) in keyValue):
+                add += 1
+            keyValue[ kurz+" $"+str(add) ] = [ lang, wkwl, metadata ]
+            print("REALY ONE APPEND !!!!!!!!!!!!!!!!", kurz+" $"+str(add), [ lang, wkwl, metadata ] )
         else:
             #add
-            keyValue[ kurz ] = [ [ lang, wkwl, metadata ] ]
+            keyValue[ kurz ] = [ lang, wkwl, metadata ]
         #del
         
         wkwl = {}
