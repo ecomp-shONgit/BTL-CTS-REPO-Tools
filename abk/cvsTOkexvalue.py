@@ -32,8 +32,8 @@ import json, codecs
 #OUTNAMEFILE = "grRueck2.txt"
 
 #DGE
-#INNAMEFILE = "dge.csv"
-#OUTNAMEFILE = "dge.txt"
+INNAMEFILE = "dge.csv"
+OUTNAMEFILE = "dge.txt"
 
 #OCD
 #INNAMEFILE = "OCD_ABBREVIATIONS.csv"
@@ -90,7 +90,7 @@ for l in range( len( lines ) ):
             lang = "" #hat keine
 
     if( lparts[ 0 ] != "" ): #NEW kurz
-        kurz = lparts[ 0 ]
+        kurz = lparts[ 0 ].upper( )
         if( lparts[ 1 ] != "" ):
             lang = lparts[ 1 ] #lang autor - wenn keinen lang autor hat, dann lass mal ist der vorher gemeint
         #so ins array
