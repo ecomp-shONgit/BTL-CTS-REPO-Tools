@@ -3,6 +3,7 @@
 
 # 2017/2018 BTL CTS Project, Prof. Charlotte Schubert, Alte Geschichte Leipzig
 # Function: knowledge base
+# abkAW (ruecker), abkGrLaDGE (dge), abkAWgrkl (ruecker2), abkAWocd (ocd)
 
 # GPLv3 copyrigth
 # This program is free software: you can redistribute it and/or modify
@@ -1667,15 +1668,37 @@ abkAW = {
    ""
   ]
  ], 
- "CVRIO avus": [
-  "C. Scribonius Curio avus", 
+ "RVFIN.": [
+  "Tyrannius (Turranius) Rufinus", 
   {
-   "orationis pro Fulvio fragm. servatum apud CIC. inv.": "orationis pro Fulvio fragm. servatum apud CIC. inv."
+   "apol. Orig.": "apologeticus Pamphili martyris pro Origene latine versus", 
+   "Clement.": "Clementis Romani quae feruntur recognitiones latine versae", 
+   "Orig. in Rom.": "Origenis commentarius in Pauli epistulam ad Romanos latine versus", 
+   "Adamant.": "libri Adamantii Origenis adversus haereticos latine versi", 
+   "sent. Sext.": "Sexti quae feruntur sententiae latine versae", 
+   "Orig. princ.": "Origenis libri de principiis latine versi", 
+   "symb.": "expositio symboli", 
+   "hist. mon.": "de vita sanctorum, i. historia monachorum latine versa", 
+   "Orig. in psalm.": "Origenis homiliae in psalmos 36\u201438 latine versae", 
+   "apol. adv. Hier.": "apologia adversus Hieronymum", 
+   "hist.": "Eusebii historia ecclesiastica translata et continuata", 
+   "epil.": "epilogus ipsius Rufini", 
+   "Basil. reg.": "Basilii regula latine versa", 
+   "patr.": "de benedictionibus patriarcharum", 
+   "Basil. hom.": "Basilii homiliae aliquot latine versae", 
+   "Orig. in gen.": "Origenis homiliae in heptateuchon (praeter deut.) latine versae", 
+   "apol. ad Anast.": "apologia ad Anastasium papam", 
+   "epist. Clement.": "epistula Clementis ad Iacobum latine versa", 
+   "praef. Rufin.": "praefatio ipsius Rufini", 
+   "Hier. adv. Rufin.": "epistulae ad Hieronymum partes apud HIER. adv. Rufin. 3 servatae", 
+   "praef. Orig.": "praefatio Origenis", 
+   "Greg. Naz. orat.": "Gregorii Nazianzeni orationes latine versae", 
+   "Orig. in cant.": "Origenis commentarius in canticum canticorum latine versus"
   }, 
   [
-   "-90", 
-   "-49", 
-   "", 
+   "345", 
+   "412", 
+   "presbyter Aquileiensis", 
    ""
   ]
  ], 
@@ -1776,16 +1799,14 @@ abkAW = {
    ""
   ]
  ], 
- "IVL. RVF.": [
-  "Iulius Rufinianus", 
-  {
-   "rhet.": "de figuris sententiarum et elocutionis"
-  }, 
+ "[BRVT. ET CASS.]": [
+  "", 
+  {}, 
   [
-   "250", 
-   "350", 
-   "rhetor", 
-   ""
+   "", 
+   "", 
+   "", 
+   "CASS. Cic. fam."
   ]
  ], 
  "TARR. PAT.": [
@@ -1814,15 +1835,16 @@ abkAW = {
    ""
   ]
  ], 
- "PHAEDR.": [
-  "Phaedrus", 
+ "SORT.": [
+  "", 
   {
-   "fabulae": "fabulae"
+   "Sangall.": "sortes codicis rescripti Sangallensis 908", 
+   "sortes versibus hexametris scriptae": "sortes versibus hexametris scriptae"
   }, 
   [
-   "-20", 
-   "60", 
-   "Augusti libertus", 
+   "", 
+   "", 
+   "", 
    ""
   ]
  ], 
@@ -2209,6 +2231,22 @@ abkAW = {
   [
    "", 
    "", 
+   "", 
+   ""
+  ]
+ ], 
+ "NAEV.": [
+  "Cn. Naevius", 
+  {
+   "carm. frg.": "carminum praeter scaenica (sc. fere belli Punici) fragmenta", 
+   "praetext.": "praetextarum fragmenta", 
+   "trag.": "tragoediarum fragmenta", 
+   "[ep.]": "[ep.]", 
+   "com.": "comoediarum fragmenta"
+  }, 
+  [
+   "-265", 
+   "-201", 
    "", 
    ""
   ]
@@ -3416,18 +3454,6 @@ abkAW = {
    "PAPIN. epigr. Varro ling. 7,28 et VARRO Men. 356"
   ]
  ], 
- "SCIP. mai.": [
-  "P. Cornelius Scipio Africanus maior", 
-  {
-   "or. frg. Gell.": "orationum fragmenta (dubia), e. g. fragm. servatum apud GELL."
-  }, 
-  [
-   "-235", 
-   "-183", 
-   "", 
-   ""
-  ]
- ], 
  "[IMP. AVG.]": [
   "", 
   {
@@ -3855,6 +3881,18 @@ abkAW = {
    ""
   ]
  ], 
+ "[REG. FRANC.]": [
+  "", 
+  {
+   "[reg. Franc.]": "generatio regum (Francorum; vulgo 'Fr\u00e4nkische V\u00f6lkertafel')"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
  "RVT. RVF.": [
   "P. Rutilius Rufus", 
   {
@@ -3964,18 +4002,6 @@ abkAW = {
    "", 
    "", 
    ""
-  ]
- ], 
- "PHILOCAL.": [
-  "Furius Dionysius Philocalus (Fil-)", 
-  {
-   "fast. Dec. 31": "fasti ad diem 31 mensis Decembris (codicibus traditi)"
-  }, 
-  [
-   "300", 
-   "399", 
-   "", 
-   "(Inscr. Ital. XIII 2 p. 261)"
   ]
  ], 
  "GRACCHAN.": [
@@ -4371,6 +4397,19 @@ abkAW = {
    ""
   ]
  ], 
+ "HILARVS": [
+  "Hilarus", 
+  {
+   "ad Pulch.": "epistula, quam scripsit Hilarus tunc diaconus ad Pulcheriam Augustam (exstat versio graeca)", 
+   "Victor. pasch.": "epistula, quam scripsit Hilarus tunc archidiaconus ad Victorium Aquitanum"
+  }, 
+  [
+   "400", 
+   "468", 
+   "papa", 
+   ""
+  ]
+ ], 
  "FLAV.": [
   "Flavius", 
   {
@@ -4461,6 +4500,18 @@ abkAW = {
    ""
   ]
  ], 
+ "CVRIO AVUS": [
+  "C. Scribonius Curio avus", 
+  {
+   "orationis pro Fulvio fragm. servatum apud CIC. inv.": "orationis pro Fulvio fragm. servatum apud CIC. inv."
+  }, 
+  [
+   "-90", 
+   "-49", 
+   "", 
+   ""
+  ]
+ ], 
  "GAVDENT.": [
   "Gaudentius", 
   {
@@ -4499,16 +4550,16 @@ abkAW = {
    ""
   ]
  ], 
- "[reg. Franc.]": [
-  "", 
+ "PHILOCAL.": [
+  "Furius Dionysius Philocalus (Fil-)", 
   {
-   "[reg. Franc.]": "generatio regum (Francorum; vulgo 'Fr\u00e4nkische V\u00f6lkertafel')"
+   "fast. Dec. 31": "fasti ad diem 31 mensis Decembris (codicibus traditi)"
   }, 
   [
+   "300", 
+   "399", 
    "", 
-   "", 
-   "", 
-   ""
+   "(Inscr. Ital. XIII 2 p. 261)"
   ]
  ], 
  "PSALM.": [
@@ -4890,18 +4941,6 @@ abkAW = {
    "450", 
    "550", 
    "patricius", 
-   ""
-  ]
- ], 
- "RVT. NAM.": [
-  "Rutilius Claudius Namatianus", 
-  {
-   "de reditu suo sive iter Gallicum": "de reditu suo sive iter Gallicum"
-  }, 
-  [
-   "400", 
-   "499", 
-   "", 
    ""
   ]
  ], 
@@ -6096,18 +6135,6 @@ abkAW = {
    ""
   ]
  ], 
- "CVRIO pater": [
-  "C. Scribonius Curio pater", 
-  {
-   "orationis (?) cuiusdam fragm. servatum apud PRISC. gramm. II": "orationis (?) cuiusdam fragm. servatum apud PRISC. gramm. II"
-  }, 
-  [
-   "-150", 
-   "-53", 
-   "", 
-   ""
-  ]
- ], 
  "[PS. ANTON. MVSA]": [
   "", 
   {
@@ -6158,14 +6185,16 @@ abkAW = {
    ""
   ]
  ], 
- "[BALB. et OPP.]": [
-  "", 
-  {}, 
+ "STILO": [
+  "L. Aelius Stilo Praeconinus", 
+  {
+   "Fest.": "fragmenta, e. g. fragm. servatum apud FEST."
+  }, 
   [
-   "", 
-   "", 
-   "", 
-   "BALB. Cic. Att."
+   "-154", 
+   "-74", 
+   "grammaticus", 
+   ""
   ]
  ], 
  "IVV.": [
@@ -6273,18 +6302,6 @@ abkAW = {
    "449", 
    "episcopus Constantinopolitani", 
    "CONC. S II ..."
-  ]
- ], 
- "STILO": [
-  "L. Aelius Stilo Praeconinus", 
-  {
-   "Fest.": "fragmenta, e. g. fragm. servatum apud FEST."
-  }, 
-  [
-   "-154", 
-   "-74", 
-   "grammaticus", 
-   ""
   ]
  ], 
  "CLAVD. DON.": [
@@ -7656,14 +7673,16 @@ abkAW = {
    ""
   ]
  ], 
- "[BASS. Gell.]": [
-  "", 
-  {}, 
+ "SCIP. MIN.": [
+  "P. Cornelius Scipio Aemilianus Africanus minor", 
+  {
+   "or. frg. Isid. orig.": "orationum fragmenta, e. g. fragm. servatum apud ISID. orig."
+  }, 
   [
+   "-185", 
+   "-129", 
    "", 
-   "", 
-   "", 
-   "GAV. BASS. Gell."
+   ""
   ]
  ], 
  "GAV. BASS.": [
@@ -8746,20 +8765,17 @@ abkAW = {
    ""
   ]
  ], 
- "NAEV.": [
-  "Cn. Naevius", 
+ "ABK\u00fcRZUNG TLL": [
+  "Name", 
   {
-   "carm. frg.": "carminum praeter scaenica (sc. fere belli Punici) fragmenta", 
-   "praetext.": "praetextarum fragmenta", 
-   "trag.": "tragoediarum fragmenta", 
-   "[ep.]": "[ep.]", 
-   "com.": "comoediarum fragmenta"
+   "Abk\u00fcrzung Werk": "Werk", 
+   "Unterwerke - Abk\u00fcrzung": "Unterwerke"
   }, 
   [
-   "-265", 
-   "-201", 
-   "", 
-   ""
+   "Datierung: start_year", 
+   "Datierung: end_year", 
+   "Notizen", 
+   "Zusatz"
   ]
  ], 
  "VIB. CRISP.": [
@@ -9288,37 +9304,15 @@ abkAW = {
    ""
   ]
  ], 
- "RVFIN.": [
-  "Tyrannius (Turranius) Rufinus", 
+ "[MIRAC.]": [
+  "", 
   {
-   "apol. Orig.": "apologeticus Pamphili martyris pro Origene latine versus", 
-   "Clement.": "Clementis Romani quae feruntur recognitiones latine versae", 
-   "Orig. in Rom.": "Origenis commentarius in Pauli epistulam ad Romanos latine versus", 
-   "Adamant.": "libri Adamantii Origenis adversus haereticos latine versi", 
-   "sent. Sext.": "Sexti quae feruntur sententiae latine versae", 
-   "Orig. princ.": "Origenis libri de principiis latine versi", 
-   "symb.": "expositio symboli", 
-   "hist. mon.": "de vita sanctorum, i. historia monachorum latine versa", 
-   "Orig. in psalm.": "Origenis homiliae in psalmos 36\u201438 latine versae", 
-   "apol. adv. Hier.": "apologia adversus Hieronymum", 
-   "hist.": "Eusebii historia ecclesiastica translata et continuata", 
-   "epil.": "epilogus ipsius Rufini", 
-   "Basil. reg.": "Basilii regula latine versa", 
-   "patr.": "de benedictionibus patriarcharum", 
-   "Basil. hom.": "Basilii homiliae aliquot latine versae", 
-   "Orig. in gen.": "Origenis homiliae in heptateuchon (praeter deut.) latine versae", 
-   "apol. ad Anast.": "apologia ad Anastasium papam", 
-   "epist. Clement.": "epistula Clementis ad Iacobum latine versa", 
-   "praef. Rufin.": "praefatio ipsius Rufini", 
-   "Hier. adv. Rufin.": "epistulae ad Hieronymum partes apud HIER. adv. Rufin. 3 servatae", 
-   "praef. Orig.": "praefatio Origenis", 
-   "Greg. Naz. orat.": "Gregorii Nazianzeni orationes latine versae", 
-   "Orig. in cant.": "Origenis commentarius in canticum canticorum latine versus"
+   "[Theclae]": "miracula sanctae Theclae virginis"
   }, 
   [
-   "345", 
-   "412", 
-   "presbyter Aquileiensis", 
+   "", 
+   "", 
+   "", 
    ""
   ]
  ], 
@@ -9727,6 +9721,16 @@ abkAW = {
    ""
   ]
  ], 
+ "[MON. ANCYR.]": [
+  "", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   "R. GEST. div. Aug."
+  ]
+ ], 
  "BRVTTED.": [
   "Bruttedius Niger", 
   {
@@ -9759,44 +9763,6 @@ abkAW = {
   [
    "", 
    "", 
-   "", 
-   ""
-  ]
- ], 
- "Nep.": [
-  "Cornelius Nepos", 
-  {
-   "Epam.": "Epaminondas (XV)", 
-   "Lys.": "Lysander (VI)", 
-   "Hann.": "Hannibal (XXIII)", 
-   "Cim.": "Cimon (V)", 
-   "Cato": "Cato (XXIV)", 
-   "reg.": "reges (XXI)", 
-   "Ages.": "Agesilaus (XVII)", 
-   "Att.": "Atticus (XXV)", 
-   "Milt.": "Miltiades (I)", 
-   "Timol.": "Timoleon (XX)", 
-   "Thras.": "Thrasybulus (VIII)", 
-   "frg.": "fragmenta", 
-   "Phoc.": "Phocion (XIX)", 
-   "Dion": "Dion (X)", 
-   "Chabr.": "Chabrias (XII)", 
-   "Ham.": "Hamilcar (XXII)", 
-   "Con.": "Conon (IX)", 
-   "Arist.": "Aristides (III)", 
-   "Paus.": "Pausanias (IV)", 
-   "praef.": "praefatio", 
-   "Iph.": "Iphicrates (XI)", 
-   "Pel.": "Pelopidas (XVI)", 
-   "Timoth.": "Timotheus (XIII)", 
-   "Them.": "Themistocles (II)", 
-   "Alc.": "Alcibiades (VII)", 
-   "Eum.": "Eumenes (XVIII)", 
-   "Dat.": "Datames (XIV)"
-  }, 
-  [
-   "-100", 
-   "-28", 
    "", 
    ""
   ]
@@ -10121,19 +10087,6 @@ abkAW = {
    "-100", 
    "-55", 
    "cos. 57", 
-   ""
-  ]
- ], 
- "SORT.": [
-  "", 
-  {
-   "Sangall.": "sortes codicis rescripti Sangallensis 908", 
-   "sortes versibus hexametris scriptae": "sortes versibus hexametris scriptae"
-  }, 
-  [
-   "", 
-   "", 
-   "", 
    ""
   ]
  ], 
@@ -10817,17 +10770,14 @@ abkAW = {
    ""
   ]
  ], 
- "HILARVS": [
-  "Hilarus", 
-  {
-   "ad Pulch.": "epistula, quam scripsit Hilarus tunc diaconus ad Pulcheriam Augustam (exstat versio graeca)", 
-   "Victor. pasch.": "epistula, quam scripsit Hilarus tunc archidiaconus ad Victorium Aquitanum"
-  }, 
+ "[BALB. ET OPP.]": [
+  "", 
+  {}, 
   [
-   "400", 
-   "468", 
-   "papa", 
-   ""
+   "", 
+   "", 
+   "", 
+   "BALB. Cic. Att."
   ]
  ], 
  "MIN. FEL.": [
@@ -11510,16 +11460,14 @@ abkAW = {
    ""
   ]
  ], 
- "[MIRAC.]": [
+ "[BASS. GELL.]": [
   "", 
-  {
-   "[Theclae]": "miracula sanctae Theclae virginis"
-  }, 
+  {}, 
   [
    "", 
    "", 
    "", 
-   ""
+   "GAV. BASS. Gell."
   ]
  ], 
  "PS. LACT. PLAC.": [
@@ -12090,14 +12038,16 @@ abkAW = {
    ""
   ]
  ], 
- "[MON. Ancyr.]": [
-  "", 
-  {}, 
+ "PAVL. FEST.": [
+  "Paulus Diaconus", 
+  {
+   "excerpta ex libris Pompeii Festi de significatione verborum": "excerpta ex libris Pompeii Festi de significatione verborum"
+  }, 
   [
+   "725", 
+   "799", 
    "", 
-   "", 
-   "", 
-   "R. GEST. div. Aug."
+   ""
   ]
  ], 
  "SIGIST.": [
@@ -12109,6 +12059,18 @@ abkAW = {
    "450", 
    "550", 
    "comes", 
+   ""
+  ]
+ ], 
+ "IVL. RVF.": [
+  "Iulius Rufinianus", 
+  {
+   "rhet.": "de figuris sententiarum et elocutionis"
+  }, 
+  [
+   "250", 
+   "350", 
+   "rhetor", 
    ""
   ]
  ], 
@@ -12507,6 +12469,44 @@ abkAW = {
    ""
   ]
  ], 
+ "NEP.": [
+  "Cornelius Nepos", 
+  {
+   "Epam.": "Epaminondas (XV)", 
+   "Lys.": "Lysander (VI)", 
+   "Hann.": "Hannibal (XXIII)", 
+   "Cim.": "Cimon (V)", 
+   "Cato": "Cato (XXIV)", 
+   "reg.": "reges (XXI)", 
+   "Ages.": "Agesilaus (XVII)", 
+   "Att.": "Atticus (XXV)", 
+   "Milt.": "Miltiades (I)", 
+   "Timol.": "Timoleon (XX)", 
+   "Thras.": "Thrasybulus (VIII)", 
+   "frg.": "fragmenta", 
+   "Phoc.": "Phocion (XIX)", 
+   "Dion": "Dion (X)", 
+   "Chabr.": "Chabrias (XII)", 
+   "Ham.": "Hamilcar (XXII)", 
+   "Con.": "Conon (IX)", 
+   "Arist.": "Aristides (III)", 
+   "Paus.": "Pausanias (IV)", 
+   "praef.": "praefatio", 
+   "Iph.": "Iphicrates (XI)", 
+   "Pel.": "Pelopidas (XVI)", 
+   "Timoth.": "Timotheus (XIII)", 
+   "Them.": "Themistocles (II)", 
+   "Alc.": "Alcibiades (VII)", 
+   "Eum.": "Eumenes (XVIII)", 
+   "Dat.": "Datames (XIV)"
+  }, 
+  [
+   "-100", 
+   "-28", 
+   "", 
+   ""
+  ]
+ ], 
  "DAR.": [
   "Darius", 
   {
@@ -12570,19 +12570,6 @@ abkAW = {
    ""
   ]
  ], 
- "Abk\u00fcrzung TLL": [
-  "Name", 
-  {
-   "Abk\u00fcrzung Werk": "Werk", 
-   "Unterwerke - Abk\u00fcrzung": "Unterwerke"
-  }, 
-  [
-   "Datierung: start_year", 
-   "Datierung: end_year", 
-   "Notizen", 
-   "Zusatz"
-  ]
- ], 
  "DOSITH.": [
   "Dositheus", 
   {
@@ -12631,15 +12618,15 @@ abkAW = {
    ""
   ]
  ], 
- "PAVL. FEST.": [
-  "Paulus Diaconus", 
+ "PHAEDR.": [
+  "Phaedrus", 
   {
-   "excerpta ex libris Pompeii Festi de significatione verborum": "excerpta ex libris Pompeii Festi de significatione verborum"
+   "fabulae": "fabulae"
   }, 
   [
-   "725", 
-   "799", 
-   "", 
+   "-20", 
+   "60", 
+   "Augusti libertus", 
    ""
   ]
  ], 
@@ -13121,6 +13108,18 @@ abkAW = {
    ""
   ]
  ], 
+ "CVRIO PATER": [
+  "C. Scribonius Curio pater", 
+  {
+   "orationis (?) cuiusdam fragm. servatum apud PRISC. gramm. II": "orationis (?) cuiusdam fragm. servatum apud PRISC. gramm. II"
+  }, 
+  [
+   "-150", 
+   "-53", 
+   "", 
+   ""
+  ]
+ ], 
  "ATIL.": [
   "Atilius", 
   {
@@ -13204,14 +13203,16 @@ abkAW = {
    "HIST. AVG."
   ]
  ], 
- "[BRVT. et CASS.]": [
-  "", 
-  {}, 
+ "RVT. NAM.": [
+  "Rutilius Claudius Namatianus", 
+  {
+   "de reditu suo sive iter Gallicum": "de reditu suo sive iter Gallicum"
+  }, 
   [
+   "400", 
+   "499", 
    "", 
-   "", 
-   "", 
-   "CASS. Cic. fam."
+   ""
   ]
  ], 
  "DAMAS.": [
@@ -13690,6 +13691,18 @@ abkAW = {
    "521", 
    "597", 
    "abbas", 
+   ""
+  ]
+ ], 
+ "SCIP. MAI.": [
+  "P. Cornelius Scipio Africanus maior", 
+  {
+   "or. frg. Gell.": "orationum fragmenta (dubia), e. g. fragm. servatum apud GELL."
+  }, 
+  [
+   "-235", 
+   "-183", 
+   "", 
    ""
   ]
  ], 
@@ -14730,18 +14743,6 @@ abkAW = {
    "380", 
    "431", 
    "presbyter", 
-   ""
-  ]
- ], 
- "SCIP. min.": [
-  "P. Cornelius Scipio Aemilianus Africanus minor", 
-  {
-   "or. frg. Isid. orig.": "orationum fragmenta, e. g. fragm. servatum apud ISID. orig."
-  }, 
-  [
-   "-185", 
-   "-129", 
-   "", 
    ""
   ]
  ], 
@@ -18274,6 +18275,19 @@ abkGrLaDGE = {
    ""
   ]
  ], 
+ "A KURZ": [
+  "Aname lang", 
+  {
+   "unterwek abk": "unterwekr", 
+   "abk werk": "Werk"
+  }, 
+  [
+   "zeit start", 
+   "zeit stopp", 
+   "Notizen", 
+   "zusatz"
+  ]
+ ], 
  "EPIGONI POEMA EPICUM": [
   "Epigoni poema epicum", 
   {}, 
@@ -21661,6 +21675,16 @@ abkGrLaDGE = {
   }, 
   [
    "V d. C.", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ASSUMPTIO MOSIS": [
+  "Assumptio Mosis", 
+  {}, 
+  [
+   "", 
    "", 
    "", 
    ""
@@ -25814,11 +25838,11 @@ abkGrLaDGE = {
    ""
   ]
  ], 
- "ASSUMPTIO MOSIS": [
-  "Assumptio Mosis", 
+ "HEGESIPP. COM.": [
+  "Hegesippus comicus", 
   {}, 
   [
-   "", 
+   "III a. C.", 
    "", 
    "", 
    ""
@@ -26082,11 +26106,11 @@ abkGrLaDGE = {
    ""
   ]
  ], 
- "HEGESIPP. COM.": [
-  "Hegesippus comicus", 
+ "POLL. $2": [
+  "Pollux grammaticus", 
   {}, 
   [
-   "III a. C.", 
+   "II d. C.", 
    "", 
    "", 
    ""
@@ -35187,18 +35211,6 @@ abkGrLaDGE = {
    ""
   ]
  ], 
- "TIB.": [
-  "Tiberius rhetor", 
-  {
-   "Fig": "de figuris"
-  }, 
-  [
-   "III/IV a. C.", 
-   "", 
-   "", 
-   ""
-  ]
- ], 
  "MONIM.": [
   "Monimus Syracusanus philosophus", 
   {}, 
@@ -40619,17 +40631,16 @@ abkGrLaDGE = {
    ""
   ]
  ], 
- "A kurz": [
-  "Aname lang", 
+ "TIB.": [
+  "Tiberius rhetor", 
   {
-   "unterwek abk": "unterwekr", 
-   "abk werk": "Werk"
+   "Fig": "de figuris"
   }, 
   [
-   "zeit start", 
-   "zeit stopp", 
-   "Notizen", 
-   "zusatz"
+   "III/IV a. C.", 
+   "", 
+   "", 
+   ""
   ]
  ], 
  "GLOSS. MED.": [
@@ -41445,16 +41456,6 @@ abkGrLaDGE = {
   }, 
   [
    "V d. C.", 
-   "", 
-   "", 
-   ""
-  ]
- ], 
- "POLL. $2": [
-  "Pollux grammaticus", 
-  {}, 
-  [
-   "II d. C.", 
    "", 
    "", 
    ""
