@@ -33,7 +33,7 @@ if __name__ == "__main__":
     print("Loosss!!!!")
     infolder = "MPL-Augustinus"
     augustinFiles = os.listdir( infolder )
-    hsctaFolder = "/home/khk/public_html/HCTSA"
+    hsctaFolder = "/Path/to"
     NSSS = "MPL"
 
     try:
