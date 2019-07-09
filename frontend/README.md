@@ -4,7 +4,7 @@
 http://cts-altegeschichte-leipzig.de/CTS/NS/...
 
 ## CTS URN RESOLVER
-http://cts-altegeschichte-leipzig.de/hcts.html?GetPassage.php&urn=CTS:NS:...
+http://cts-altegeschichte-leipzig.de/scri/hctsGetCapabilities.php
 
 ## CTS Frontend
 
