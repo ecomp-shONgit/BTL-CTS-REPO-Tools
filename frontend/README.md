@@ -7,15 +7,25 @@ http://cts-altegeschichte-leipzig.de/CTS/NS/...
 http://cts-altegeschichte-leipzig.de/hcts.html?GetPassage.php&urn=CTS:NS:...
 
 ## CTS Frontend
+
 http://cts-altegeschichte-leipzig.de/CTS/hcts.html
+
 (Input of text to build own CTS repositories, Perikels Vita Project)
+
 http://cts-altegeschichte-leipzig.de/hcts.html?GetCapabilities(&urn=)
+
 (cts core: see GetCapabilities Manual, humand readable)
+
 http://cts-altegeschichte-leipzig.de/hcts.html?GetPassage&urn=
+
 (cts core: see GetPassage Manual, humand readable GetPassage output)
+
 http://cts-altegeschichte-leipzig.de/hcts.html?CTSproxy
+
 (refext: Proxy to add cts urn to any page, tllr example, deprecated)
+
 http://cts-altegeschichte-leipzig.de/hcts.html?REFtoCTSURN
+
 (refext: second example)
 
 ## RefExt Frontend
