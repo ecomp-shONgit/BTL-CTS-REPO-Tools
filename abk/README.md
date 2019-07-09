@@ -28,10 +28,31 @@ If no first part is given, a enumeration of second parts is denoted.
 
 # Usage
 
-1. Get the Input .csv 
+1. Get the Input .csv
 2. configure script
 3. run script
 4. copy new abkAW files to the place you want to use it
 
 ## Get Input CSV
-to get csv files, use the 
+
+To get csv files, use the example files or compile them in your own using the given scripts.
+
+Oxford Classical Dictionary: OCD_ABBREVIATIONS.csv
+
+RÜCKER/TLL/PAN: -
+
+Diccionario Griego-Español: dge.csv
+
+## Configure script
+
+Set the name of the input file and the name of the outputfile.
+
+```
+###################################
+#CONFIG IN AND OUT FILENAME
+
+#DGE
+INNAMEFILE = "dge.csv"
+OUTNAMEFILE = "dge.txt"
+
+```
