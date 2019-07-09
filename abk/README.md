@@ -57,7 +57,7 @@ OUTNAMEFILE = "dge.txt"
 
 ```
 
-## Run Script an copy result
+## Run Script and copy result
 
 The script is usable with python 2.7 and a Version of Python 3.
 
