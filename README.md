@@ -28,4 +28,10 @@ For a detailed description read the README of each section:
 
 We intend to have a unified addressing scheme. To realize this we use the URI definition.  The provide access methods now range from PATH, URN to URL (with and without authority). The special case of ancient sources and there editions and referencing gives us the possibility of repository design that allow multiple text versions, if needed multiple versions of the repository under one addressing scheme. The CTS URN is a central to all of this, because everything else derived from this, it is the exchange format of a citation. 
 
+# Online Demo
+
+
+http://ecomparatio.net/~khk/CTS 
+
+http://www.cts-altegeschichte-leipzig.de/
 
