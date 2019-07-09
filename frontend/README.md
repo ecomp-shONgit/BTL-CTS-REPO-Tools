@@ -1,12 +1,12 @@
-#Links CTS/REFEXT
+# Links CTS/REFEXT
 
-##CTS URL 
+## CTS URL 
 http://cts-altegeschichte-leipzig.de/CTS/NS/
 
-##CTS URN RESOLVER
+## CTS URN RESOLVER
 http://cts-altegeschichte-leipzig.de/hcts.html?GetPassage.php&urn=CTS:NS:...
 
-##CTS Frontend
+## CTS Frontend
 http://cts-altegeschichte-leipzig.de/CTS/hcts.html
 (Input of text to build own CTS repositories, Perikels Vita Project)
 http://cts-altegeschichte-leipzig.de/hcts.html?GetCapabilities(&urn=)
@@ -18,7 +18,7 @@ http://cts-altegeschichte-leipzig.de/hcts.html?CTSproxy
 http://cts-altegeschichte-leipzig.de/hcts.html?REFtoCTSURN
 (refext: second example)
 
-##RefExt Frontend
+## RefExt Frontend
 http://cts-altegeschichte-leipzig.de/CTS/refext.html
 
 # Notes on this implementation
