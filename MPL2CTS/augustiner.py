@@ -19,6 +19,11 @@
 
 import os, codecs, unicodedata, time, hashlib
 
+################################### configure
+infolder = "MPL-Augustinus"
+hsctaFolder = "/Path/to"
+NSSS = "MPL"
+    
 def removerestTAGS(strstr):
     st = strstr.split(">")
     retstr = ""
@@ -31,10 +36,7 @@ def removerestTAGS(strstr):
 
 if __name__ == "__main__":
     print("Loosss!!!!")
-    infolder = "MPL-Augustinus"
     augustinFiles = os.listdir( infolder )
-    hsctaFolder = "/Path/to"
-    NSSS = "MPL"
 
     try:
         os.mkdir( hsctaFolder+"/"+NSSS )
