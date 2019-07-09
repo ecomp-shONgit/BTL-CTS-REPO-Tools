@@ -56,3 +56,14 @@ INNAMEFILE = "dge.csv"
 OUTNAMEFILE = "dge.txt"
 
 ```
+
+## Run Script an copy result
+
+The script is usable with python 2.7 and a Version of Python 3.
+
+```
+$ python cvsTOkexvalue.py
+
+```
+
+The resulting output is a key value datastructure known to Python and JavaScript. If you want to put it in use with Javascript you need to satifie the Variable convention, so add the "let xxx =" and the ";" on your own. Same is true for Python (add "xxx=") to the output.
