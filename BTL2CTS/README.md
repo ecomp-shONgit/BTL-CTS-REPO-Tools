@@ -10,7 +10,7 @@
 
 ## Configure script
 
-Set target folder name and CTS namespace.
+Set target folder name, CTS namespace and fill the array of input filenames.
 
 ```
 
