@@ -30,8 +30,5 @@ We intend to have a unified addressing scheme. To realize this we use the URI de
 
 # Online Demo
 
-
-http://ecomparatio.net/~khk/CTS 
-
 http://www.cts-altegeschichte-leipzig.de/
 
