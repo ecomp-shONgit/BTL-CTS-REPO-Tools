@@ -39,7 +39,7 @@ To get csv files, use the example files or compile them in your own using the gi
 
 Oxford Classical Dictionary: OCD_ABBREVIATIONS.csv
 
-RÜCKER/TLL/PAN: -
+TLL/PAN: index_tll_final.csv
 
 Diccionario Griego-Español: dge.csv
 
