@@ -17,7 +17,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-import json, codecs
+import json, codecs, re
 
 
 ###################################
@@ -41,6 +41,11 @@ OUTNAMEFILE = "dge.txt"
 
 ###################################
 
+cleaner = re.compile('<.*?>')
+
+def cleanmark(rawtext):
+  cleantext = re.sub(cleaner, '', rawtext)
+  return cleantext
 
 fO = codecs.open( INNAMEFILE, "r")
 text = fO.read()
@@ -56,7 +61,7 @@ metadata = [ "","","","" ]
 letzeabk = ""
 
 for l in range( len( lines ) ):
-    lparts = lines[ l ].split("\t")
+    lparts = cleanmark( lines[ l ] ).split("\t")
 
     for k in range( len( lparts ) ):
         lparts[ k ] = lparts[ k ].strip()
