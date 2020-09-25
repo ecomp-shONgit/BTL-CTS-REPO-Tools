@@ -1,6 +1,6 @@
 # Structure of the input csv files
 
-The csv file is ";;" separated. Each row possibly contains the following information:
+The csv file is "TAB" separated. Each row possibly contains the following information:
 
  - Akurz: first part of canonical textname canonical short term
 
