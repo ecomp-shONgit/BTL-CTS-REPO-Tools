@@ -1,0 +1,1300 @@
+{
+ "MAX. TYR.": [
+  "Maximos Tyrios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ANAKR.": [
+  "Anakreon", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DION CHRYS.": [
+  "Dion Chrysostomos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PLAT.": [
+  "Platon", 
+  {
+   "Lys.": "Lysis", 
+   "Hipparch.": "Hipparchos", 
+   "rep.": "de re publica", 
+   "Kleit.": "Kleitophon", 
+   "Hipp. min.": "Hippias minor", 
+   "Ax.": "Axiochos", 
+   "Eryx.": "Eryxias", 
+   "Phaid.": "Phaidon", 
+   "apol.": "apologia", 
+   "Phil.": "Philebos", 
+   "Min.": "Minos", 
+   "Krit.": "Kriton", 
+   "Dem.": "Demodokos", 
+   "Tim.": "Timaios", 
+   "soph.": "sophista", 
+   "def.": "definitiones", 
+   "Ion": "Ion", 
+   "Thg.": "Theages", 
+   "epin.": "epinomis", 
+   "epist.": "epistulae", 
+   "Prot.": "Protagoras", 
+   "Parm.": "Parmenides", 
+   "Tht.": "Theaitetos", 
+   "Euthyphr.": "Euthyphron", 
+   "Men.": "Menon", 
+   "Phaidr.": "Phaidros", 
+   "Kritias": "Kritias", 
+   "Krat.": "Kratylos", 
+   "Sis.": "Sisyphos", 
+   "leg.": "leges", 
+   "Euthyd.": "Euthydemos", 
+   "Alk. 2": "Alkibiades 2", 
+   "Alk. 1": "Alkibiades 1 (Stephanus)", 
+   "symp.": "symposium", 
+   "Lach.": "Laches", 
+   "Mx.": "Menexenos", 
+   "Gorg.": "Gorgias", 
+   "polit.": "politicus", 
+   "Hipp. mai.": "Hippias maior", 
+   "Charm.": "Charmides", 
+   "erast.": "erastae"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DION. HAL.": [
+  "Dionysios Halicarnasseus", 
+  {
+   "rhet.": "ars rhetorica", 
+   "ant.": "antiquitates Romanae", 
+   "comp.": "de compositione verborum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EPIK.": [
+  "Epikuros", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HOM. $1": [
+  "Homeros", 
+  {
+   "Il.": "Ilias", 
+   "Od.": "Odyssee"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "MEN.": [
+  "Menandros", 
+  {
+   "Sam.": "Samia", 
+   "Pk.": "Perikeiromene", 
+   "Epitr.": "Epitrepontes", 
+   "Dysk.": "Dyskolos", 
+   "fr.": "fragmentum (K\u00f6rte)"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "LYKURG.": [
+  "Lykurgos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PHILOSTR.": [
+  "Philostratos", 
+  {
+   "imag.": "imagines", 
+   "Ap.": "vita Apollonii", 
+   "soph.": "vitae sophistarum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PHOT.": [
+  "Photios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "APUL.": [
+  "Apuleius", 
+  {
+   "apol.": "apologia", 
+   "met.": "metamorphoses", 
+   "flor.": "florida"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "THEOKR.": [
+  "Theokritos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AISCHIN.\u00a0": [
+  "Aischines", 
+  {
+   "Tim.": "in Timarchum", 
+   "Ctes.": "in Ctesiphontem", 
+   "leg.": "de falsa legatione"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ANAXAG.": [
+  "Anaxagoras", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PLUT.": [
+  "Plutarchos", 
+  {
+   "de Pyth. or.": "de Pythiae oraculis", 
+   "am.": "amatorius", 
+   "qu.Gr.": "quaestiones Graecae", 
+   "symp.": "quaestiones convivales", 
+   "de E": "de E apud Delphos", 
+   "mor.": "moralia", 
+   "Is.": "de Iside et Osiride", 
+   "vitae parallelae": "vitae parallelae", 
+   "de sera": "de sera numinis vindicta", 
+   "qu.R.": "quaestiones Romanae", 
+   "de def. or.": "de defectu oraculorum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "XEN.": [
+  "Xenophon", 
+  {
+   "hipp.": "hipparchicus", 
+   "Ag.": "Agesilaos", 
+   "Lak. pol.": "Lakedaimonion politeia", 
+   "Kyr.": "Cyrupaideia", 
+   "equ.": "de equitandi ratione", 
+   "vect.": "de vectigalibus", 
+   "an.": "anabasis", 
+   "mem.": "memorabilia", 
+   "oik.": "oeconomicus", 
+   "symp.": "symposium", 
+   "apol.": "apologia", 
+   "kyn.": "cynegeticus", 
+   "Hier.": "Hieron", 
+   "hell.": "Hellenica", 
+   "Ath. pol.": "Athenaion politeia"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "LYKOPHR.": [
+  "Lykophron", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "IOS.": [
+  "Iosephos", 
+  {
+   "vita": "de sua vita", 
+   "ant. Iud.": "antiquitates Iudaicae", 
+   "c. Ap.": "contra Apionem", 
+   "bell. Iud.": "bellum Iudaicum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARISTOPH.": [
+  "Aristophanes", 
+  {
+   "Eccl.": "Ecclesiazusae", 
+   "Lys.": "Lysistrata", 
+   "Equ.": "Equites", 
+   "Pax": "Pax", 
+   "Ran.": "Ranae", 
+   "Av.": "Aves", 
+   "Plut.": "Plutus", 
+   "Vesp.": "Vespae", 
+   "Thesm.": "Thesmophoriazusae", 
+   "Ach.": "Acharnenses", 
+   "Nub.": "Nubes"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "THEOPHR.": [
+  "Theophrastos", 
+  {
+   "c. plant.": "de causis plantarum", 
+   "h. plant.": "historia plantarum", 
+   "char.": "characteres"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "STRAB.": [
+  "Strabon", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "NIKOM.": [
+  "Nikomachos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ANAXIMEN.": [
+  "Anaximenes", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARISTOX.": [
+  "Aristoxenos", 
+  {
+   "harm.": "harmonica"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AIN.": [
+  "Aineias", 
+  {
+   "takt.": "Taktikos"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "APOLLOD.": [
+  "Apollodoros", 
+  {
+   "bibliotheke": "bibliotheke"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "SOL.": [
+  "Solon", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EUKL.": [
+  "Eukleides", 
+  {
+   "elem.": "elementa"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "XENOPHAN.": [
+  "Xenophanes", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PIND.": [
+  "Pindar", 
+  {
+   "O.": "Olympien", 
+   "P.": "Pythien", 
+   "fr.": "Fragmente (Snell/Maehler)", 
+   "N.": "Nemeen", 
+   "I.": "Isthmien"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "IAMBL.": [
+  "Iamblichos", 
+  {
+   "protr.": "protrepticus in philosophiam", 
+   "de myst.": "de mysteriis", 
+   "v. P.": "de vita Pythagorica"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "THEM.": [
+  "Themistios", 
+  {
+   "or.": "orationes"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "OREIB.": [
+  "Oreibasios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARNOB.": [
+  "Arnobius", 
+  {
+   "adversus nationes": "adversus nationes"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "GREG. NYSS.": [
+  "Gregorius Nyssenus", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AISCHYL.": [
+  "Aischylos", 
+  {
+   "Ag.": "Agamemnon", 
+   "Eum.": "Eumenides", 
+   "Prom.": "Prometheus", 
+   "Suppl.": "Supplices", 
+   "Sept.": "Septem adversus Thebas", 
+   "Pers.": "Persae", 
+   "Choeph.": "Choephoroi"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ATHEN.": [
+  "Athenaios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HES.": [
+  "Hesiodos", 
+  {
+   "theog.": "Theogonia", 
+   "erg.": "opera et dies", 
+   "scut.": "scutum", 
+   "cat.": "catalogus feminarum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "STESICH.": [
+  "Stesichoros", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PHRYN.": [
+  "Phrynichos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HERAKL. PONT.": [
+  "Herakleides Pontikos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EUS.": [
+  "Eusebios", 
+  {
+   "vita Const.": "de vita Constantini", 
+   "Dem. Ev.": "Demonstratio Evangelica", 
+   "Pr. Ev.": "Praeparatio Evangelica", 
+   "On.": "Eusebios, Onomastikon (Klostermann 1904)", 
+   "HE": "Historia Ecclesiastica"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "NIK.": [
+  "Nikandros", 
+  {
+   "Ther.": "Theriaka", 
+   "Alex.": "Alexipharmaka"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PROK.": [
+  "Prokopios", 
+  {
+   "aed.": "de aedificiis", 
+   "BV": "bellum Vandalicum", 
+   "BG": "bellum Gothicum", 
+   "BP": "bellum Persicum", 
+   "HA": "historia arcana"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARTEM.": [
+  "Artemidoros", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ORPH.": [
+  "Orpheus", 
+  {
+   "h.": "hymni", 
+   "fr.": "fragmentum (Kern)", 
+   "Arg.": "Argonautika"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DION. PER.": [
+  "Dionysios Periegetes", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "POSEID.": [
+  "Poseidonios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "GORG.": [
+  "Gorgias", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DEMOSTH.": [
+  "Demosthenes", 
+  {
+   "or.": "orationes"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AIL.": [
+  "Ailianos", 
+  {
+   "var.": "varia historia", 
+   "nat.": "de natura animalium"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "SKYMN.": [
+  "Skymnos", 
+  {
+   "periegesis": "periegesis"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HEKAT.": [
+  "Hekataios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "SOPH.": [
+  "Sophokles", 
+  {
+   "Ichn.": "Ichneutae", 
+   "Trach.": "Trachiniae", 
+   "El.": "Electra", 
+   "Phil.": "Philoctetes", 
+   "Oid. K.": "Oedipus Coloneus", 
+   "Ai.": "Aias", 
+   "Ant.": "Antigone", 
+   "Oid. T.": "Oedipus Rex"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AUTOR ABK\u00fcRZUNG": [
+  "Autor", 
+  {
+   "Werk Abk\u00fcrzung": "Werk", 
+   "Unterwerke \u2013 Abk\u00fcrzung": "Unterwerke"
+  }, 
+  [
+   "Datierung: start_year", 
+   "Datierung: end_year", 
+   "Notizen", 
+   "Zusatz"
+  ]
+ ], 
+ "EUR.": [
+  "Euripides", 
+  {
+   "Alc.": "Alcestis", 
+   "Hipp.": "Hippolytus", 
+   "El.": "Electra", 
+   "Tro.": "Troades", 
+   "Heraclid.": "Heraclidae", 
+   "Bacch.": "Bacchae", 
+   "Med.": "Medea", 
+   "Phoen.": "Phoenissae", 
+   "Herc.": "Hercules", 
+   "Or.": "Orestes", 
+   "Ion": "Ion", 
+   "Iph. T.": "Iphigenia Taurica", 
+   "Cycl.": "Cyclops", 
+   "Hec.": "Hecuba", 
+   "Suppl.": "Supplices", 
+   "Andr.": "Andromacha", 
+   "Hel.": "Helena", 
+   "Rhes.": "Rhesus", 
+   "Iph. A.": "Iphigenia Aulidensis"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "APOLL. RHOD.": [
+  "Apollonios Rhodios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AND.": [
+  "Andokides", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "SUDA": [
+  "Suda = Suidas", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "LYS.": [
+  "Lysias", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DIOM.": [
+  "Diomedes", 
+  {
+   "ars grammatica": "ars grammatica"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "APP.": [
+  "Appianos", 
+  {
+   "It.": "Italica", 
+   "Samn.": "Samnitica", 
+   "Mithr.": "Mithridatius", 
+   "Lib.": "Libyca", 
+   "Ib.": "Iberica", 
+   "Ill.": "Illyrica", 
+   "civ.": "bella civilia", 
+   "Celt.": "Celtica", 
+   "reg.": "regia", 
+   "Hann.": "Hannibalica", 
+   "Sic.": "Sicula", 
+   "Mac.": "Macedonica", 
+   "Num.": "Numidica", 
+   "Syr.": "Syriaca"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "GREG. NAZ.": [
+  "Gregorius Nazianzenus", 
+  {
+   "or.": "orationes", 
+   "epist.": "epistulae"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HESYCH.": [
+  "Hesychios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "IOH. MAL.": [
+  "Iohannes Malalas", 
+  {
+   "chronographia": "chronographia"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ANAXIMAND.": [
+  "Anaximandros", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DIOD.": [
+  "Diodorus Siculus", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EMP.": [
+  "Empedokles", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "THEOP.": [
+  "Theopompos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "NONN.": [
+  "Nonnos", 
+  {
+   "Dion.": "Dionysiaka"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "LUKIAN.": [
+  "Lukianos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HOM.": [
+  "", 
+  {
+   "h.": "hymni Homerici"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "LYD.": [
+  "Lydos", 
+  {
+   "mens.": "de mensibus", 
+   "mag.": "de magistratibus"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "POL.": [
+  "Polybios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HERMOG.": [
+  "Hermogenes", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ISOKR.": [
+  "Isokrates", 
+  {
+   "or.": "orationes"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "SKYL.": [
+  "Skylax", 
+  {
+   "periplus": "periplus"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ASCON.": [
+  "Asconius", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "CASS. DIO": [
+  "Cassius Dio", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HIPPOKR.": [
+  "Hippokrates", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARISTOT.": [
+  "Aristoteles", 
+  {
+   "div.": "de divinatione", 
+   "mir.": "mirabilia", 
+   "metaph.": "metaphysica", 
+   "eth. Eud.": "ethica Eudemia", 
+   "rhet.": "rhetorica", 
+   "top.": "topica", 
+   "an. post.": "analytica posteriora", 
+   "gen. an.": "de generatione animalium", 
+   "mot. an.": "de motu animalium", 
+   "poet.": "poetica", 
+   "phgn.": "physiognomica", 
+   "gen. corr.": "de generatione et corruptione", 
+   "eth. Nic.": "ethica Nicomachea", 
+   "meteor.": "meteorologica", 
+   "Ath. pol.": "Athenaion politeia", 
+   "soph. el.": "sophistici elenchi", 
+   "m. mor.": "magna moralia", 
+   "an.": "de anima", 
+   "mund.": "de mundo", 
+   "col.": "de coloribus", 
+   "hist. an.": "historia animalium", 
+   "aud.": "de audibilibus", 
+   "pol.": "politica", 
+   "sens.": "de sensu", 
+   "cael.": "de caelo", 
+   "part. an.": "de partibus animalium", 
+   "somn.": "de somno et vigilia", 
+   "spir.": "de spiritu", 
+   "phys.": "physica", 
+   "cat.": "categoriae", 
+   "rhet. Alex.": "rhetorica ad Alexandrum", 
+   "an. pr.": "analytica priora", 
+   "oec.": "oeconomica", 
+   "probl.": "problemata"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ERATOSTH.": [
+  "Eratosthenes", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AMM.": [
+  "Ammianus Marcellinus", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HERAKL.": [
+  "Herakleitos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "DIOG. LAERT.": [
+  "Diogenes Laertios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "HDT.": [
+  "Herodotos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "MELANIPP.": [
+  "Melanippides", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "MIMN.": [
+  "Mimnermos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EPIKT.": [
+  "Epiktetos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "STEPH. BYZ.": [
+  "Stephanos Byzantios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PTOL.": [
+  "Ptolemaios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "ARR.": [
+  "Arrianos", 
+  {
+   "succ.": "historia successorum Alexandri", 
+   "an.": "anabasis", 
+   "takt.": "taktika", 
+   "cyn.": "cynegeticus", 
+   "per. p. E.": "periplus ponti Euxini", 
+   "Ind.": "Indica"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "AISOP.": [
+  "Aisopos", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "THUK.": [
+  "Thukydides", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EUST.": [
+  "Eustathios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "STOB.": [
+  "Stobaios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EUN.": [
+  "Eunapios", 
+  {
+   "vit. soph.": "vitae sophistarum"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "EPHOR.": [
+  "Ephoros von Kyme", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "POLYAIN.": [
+  "Polyainos", 
+  {
+   "strategemata": "strategemata"
+  }, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "PORPH.": [
+  "Porphyrios", 
+  {}, 
+  [
+   "", 
+   "", 
+   "", 
+   ""
+  ]
+ ]
+}
